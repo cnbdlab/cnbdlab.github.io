@@ -35,6 +35,7 @@ Address: 10555 West Flagler Street, Suite EC 3160, Miami, FL 33174.</p>
             Assistant Professor<br>Dept of Biomedical Engineering<br>
             College of Engineering and Computing<br>
             Florida International University, Miami, FL, USA<br>
+            <a href="https://scholar.google.com/citations?user=m76VpV8AAAAJ&hl=en" target="_blank" class="text-blue-600 hover:underline">Google Scholar</a><br>
             <a href="https://kangjoo.github.io/" target="_blank" class="text-blue-600 hover:underline">Personal Homepage</a><br>
         </p>
     </div>
