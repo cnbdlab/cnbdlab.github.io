@@ -33,7 +33,7 @@ testimonials:
     sub_headline="We integrate longitudinal assessments and time-series analyses to map neural signal measures to neurological and psychiatric symptoms that manifest over various timescales from moments to months. Using advanced machine learning (ML) techniques, such as dimensionality reduction, multivariate linear models and artificial intelligence (AI)-driven models, we conduct multimodal neuroimaging studies combined with longitudinal phenotyping, computational modelling and neuroinformatics to establish reproducible brain-behavior associations. We aim to develop methods to identify neural circuit abnormalities underlying symptoms, develop multimodal neural markers of psychopathology, and inform symptom-specific pharmacological treatment strategies."
     primary_button_text="Our Research"
     primary_button_url="/research/"
-    secondary_button_text="Our team"
+    secondary_button_text="Our Team"
     secondary_button_url="/members/"
     hero_image="/images/main-dmc-bp.png"
     gradient-from="#dbeafe"
