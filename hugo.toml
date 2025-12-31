@@ -5,6 +5,8 @@ defaultContentLanguage = "en"
 # Theme Config
 theme = "hugo-saasify-theme"
 
+publishDir = "."
+
 # Enable emoji support
 enableEmoji = true
 

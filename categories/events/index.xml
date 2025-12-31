@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on CNBD Lab</title>
-    <link>https://cnbdlab.github.io/blog/</link>
-    <description>Recent content in Blogs on CNBD Lab</description>
+    <title>Events on CNBD Lab</title>
+    <link>https://cnbdlab.github.io/categories/events/</link>
+    <description>Recent content in Events on CNBD Lab</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://cnbdlab.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Dec 2025 12:57:39 -0500</lastBuildDate>
+    <atom:link href="https://cnbdlab.github.io/categories/events/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to the CNBD Lab</title>
       <link>https://cnbdlab.github.io/blog/cnbd-intro/</link>
