@@ -1,42 +1,30 @@
 ---
-title: "Join Our Team"
-description: "Be part of a team that's revolutionizing the SaaS industry with innovative solutions and a people-first culture."
+title: "Join Our Lab"
+description: "Join a team dedicated to advancing scientific innovations to improve the lives of people affected by brain disorders."
 layout: "career"
 
 culture_section:
-  title: "Our Culture"
+  title: "Positions"
   image: "/images/team.jpg"
   image_alt: "Our Team"
   image_caption: "Join our amazing team!"
   values:
-    - icon: "🌟"
-      title: "Innovation First"
-      description: "We encourage creative thinking and empower our team to push boundaries and explore new possibilities."
-    - icon: "🤝"
-      title: "Collaborative Spirit"
-      description: "We believe in the power of teamwork and foster an environment where everyone's voice is heard and valued."
-    - icon: "🌱"
-      title: "Growth Mindset"
-      description: "We invest in our team's development and provide opportunities for continuous learning and advancement."
-
-benefits_section:
-  title: "Why Join Us?"
-  benefits:
-    - icon: "💪"
-      title: "Health & Wellness"
-      description: "Comprehensive health coverage, wellness programs, and mental health support."
+    - icon: "🧠"
+      title: "Postdoctoral Researchers"
+      description: "We welcome postdoctoral candidates passionate about computational and clinical neuroscience. Please email Dr. Lee your CV and research statement to discuss fellowship applications."
     - icon: "🎯"
-      title: "Work-Life Balance"
-      description: "Flexible working hours, remote options, and unlimited PTO policy."
+      title: "PhD Students"
+      description: "We are seeking two PhD students to start in Fall 2026 through the FIU BME PhD program."
     - icon: "📚"
-      title: "Learning & Development"
-      description: "Professional development budget and regular learning sessions."
+      title: "Master's Students"
+      description: "There are currently no openings for the Master’s program."
+    - icon: "🌟"
+      title: "Undergraduate Students"
+      description: "We are currently looking for two or three undergraduate students from diverse backgrounds including neuroscience, psychology, engineering and computer science."
 
 positions_section:
   title: "Open Positions"
   view_position_text: "View Position"
 ---
 
-At Saasify, we believe in empowering our team members to do their best work. We foster an environment of innovation, collaboration, and continuous learning. Our culture is built on trust, transparency, and a shared commitment to excellence.
 
-We're looking for passionate individuals who want to make a difference and grow with us. If you're excited about building the future of SaaS and working with cutting-edge technology, we'd love to hear from you.

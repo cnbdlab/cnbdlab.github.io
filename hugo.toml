@@ -1,5 +1,5 @@
-baseURL = "https://saasify-demo.chaoming.li/"
-title = "Saasify"
+baseURL = "https://cnbdlab.github.io/"
+title = "CNBD Lab"
 defaultContentLanguage = "en"
 
 # Theme Config
@@ -22,46 +22,46 @@ paginatePath = "page"
 
 [params]
   description = ""
-  author = "Chaoming Li"
-  logo = "/images/logo.svg"
+  author = "Kangjoo Lee"
+  logo = "/images/CNBD Lab_logo_brainonly.png"
   # Google Analytics ID (e.g., "G-XXXXXXXXXX")
-  # googleAnalytics = "G-XXXXXXXXXX"
+  googleAnalytics = "G-NMFHL4YZ34"
   
   # Global CTA Configuration
   [params.cta]
     enable = true
-    title = "Ready to Build Your SaaS Website?"
-    description = "Join companies already using our theme to create beautiful, high-performance websites."
+    title = "Interested in working with us?"
+    description = "Join us based in the Department of Biomedical Engineering at Florida International University."
     gradient_from = "#2563eb"  # Indigo-600
     gradient_to = "#7c3aed"    # Purple-600
     gradient_angle = 30
     [params.cta.primary_button]
-      text = "Get Started Free"
-      url = "/get-started"
+      text = "Email Dr. Lee"
+      url = "mailto:kalee@fiu.edu"
     [params.cta.secondary_button]
-      text = "Book Demo"
-      url = "/demo"
+      text = "BME PhD Program"
+      url = "https://bme.fiu.edu/academics/degrees/"
   
   # Social Media Links
   [params.social]
-    linkedin = "https://linkedin.com/in/chaomingli"
-    twitter = "https://twitter.com/lichaoming"
-    bluesky = "https://bsky.app/profile/bsky.app"
-    youtube = "https://youtube.com/@chaomingli"
-    facebook = "https://facebook.com/lichaoming"
-    instagram = "https://instagram.com/lichaoming"
-    github = "https://github.com/chaoming"
-    telegram = "https://t.me/yourchannel"
-    discord = "https://discord.gg/yourinvite"
-    slack = "https://yourteam.slack.com"
-    medium = "https://medium.com/@yourhandle"
-    dribbble = "https://dribbble.com/yourprofile"
-    behance = "https://behance.net/yourprofile"
+    linkedin = "https://www.linkedin.com/in/kangjoo-lee-31756630/"
+    twitter = "https://x.com/Kangjoo_Lee_"
+    bluesky = "https://bsky.app/profile/kangjoolee.bsky.social"
+    #youtube = "https://youtube.com/@yourprofile"
+    #facebook = "https://facebook.com/yourprofile"
+    #instagram = "https://instagram.com/yourprofile"
+    github = "https://github.com/Kangjoo/"
+    #telegram = "https://t.me/yourchannel"
+    #discord = "https://discord.gg/yourinvite"
+    slack = "https://cnbdlab.slack.com"
+    #medium = "https://medium.com/@yourhandle"
+    #dribbble = "https://dribbble.com/yourprofile"
+    #behance = "https://behance.net/yourprofile"
   
   # Footer Configuration
   [params.footer]
-    column_1_title = "Features"
-    column_2_title = "COMPANY"
+    column_1_title = "OUR WORK"
+    column_2_title = "OUR TEAM"
     column_3_title = "LEGAL"
   
   [params.header]
@@ -71,7 +71,7 @@ paginatePath = "page"
     
     # Logo configuration
     [params.header.logo]
-      src = "/images/logo.svg"
+      src = "/images/CNBD Lab_logo_brainonly.png"
     
     # Menu configuration
     [params.header.menu]
@@ -92,21 +92,21 @@ paginatePath = "page"
     
     # Button configuration
     [params.header.buttons]
-      # Sign In button
-      [params.header.buttons.signIn]
-        text = "Sign in"
-        url = "/signin"
+#      # Sign In button
+#      [params.header.buttons.signIn]
+#        text = "Subscribe"
+#        url = "/blog/"
       
       # Get Started button
       [params.header.buttons.getStarted]
-        text = "Get Started"
-        url = "/get-started"
+        text = "Lab GitHub"
+        url = "https://github.com/cnbdlab"
 
   # Blog configuration
   [params.blog]
     enable = true
     title = "Latest Articles"
-    subtitle = "Learn more about web development and best practices"
+    subtitle = "Learn more about what we do for fun and science"
     
     # Blog CTA configuration
     [params.blog.cta]
@@ -131,16 +131,16 @@ paginatePath = "page"
         title = "Popular Tags"
         count = 20
 
-      # Subscribe form section
-      [params.blog.sidebar.subscribe]
-        enable = true
-        title = "Subscribe to Newsletter"
-        description = "Get the latest posts delivered right to your inbox"
-        action = "https://formspree.io/f/your-form-id"
-        emailName = "email"
-        buttonText = "Subscribe"
-        placeholder = "Enter your email"
-        disclaimer = "We respect your privacy. Unsubscribe at any time."
+#      # Subscribe form section
+#      [params.blog.sidebar.subscribe]
+#        enable = true
+#        title = "Subscribe to Newsletter"
+#        description = "Get the latest posts delivered right to your inbox"
+#        action = "https://formspree.io/f/your-form-id"
+#        emailName = "email"
+#        buttonText = "Subscribe"
+#        placeholder = "Enter your email"
+#        disclaimer = "We respect your privacy. Unsubscribe at any time."
 
 [module]
   [module.hugoVersion]
@@ -192,58 +192,75 @@ paginatePath = "page"
 # Navigation Menu
 [menu]
   [[menu.main]]
-    name = "Features"
+    name = "Our team"
     weight = 1
     [menu.main.params]
       has_submenu = true
       submenu = [
-        { name = "Performance", url = "/features/performance/" },
-        { name = "Design System", url = "/features/design-system/" },
-        { name = "Developer Experience", url = "/features/developer-experience/" }
+        { name = "Members", url = "/members/" },
+        { name = "Alumni", url = "/alumni/" },
+        { name = "Lab Statement", url = "/labstatement/" }
       ]
   [[menu.main]]
-    name = "Pricing"
-    url = "/pricing"
+    name = "Research"
+    url = "/research"
     weight = 2
+  [[menu.main]]
+    name = "Publications"
+    url = "/publications"
+    weight = 3
+  [[menu.main]]
+    name = "Software"
+    url = "/software"
+    weight = 4
   [[menu.main]]
     name = "Blog"
     url = "/blog"
-    weight = 3
+    weight = 5
   [[menu.main]]
-    name = "Company"
-    weight = 4
-    [menu.main.params]
-      has_submenu = true
-      submenu = [
-        { name = "About Us", url = "/company/" },
-        { name = "Careers", url = "/careers/" }
-      ]
+    name = "Join Us"
+    url = "/careers"
+    weight = 6
+#  [[menu.main]]
+#    name = "Research"
+#    weight = 2
+#    [menu.main.params]
+#      has_submenu = true
+#      submenu = [
+#        { name = "Interests", url = "/research/interests/" },
+#        { name = "Publications", url = "/research/publications/" },
+#        { name = "Software", url = "/research/software/" }
+#      ]
+#  [[menu.main]]
+#    name = "Pricing"
+#    url = "/pricing"
+#    weight = 3
 
   # Footer Column 1 Menu
   [[menu.footer_column_1]]
-    name = "Performance"
-    url = "/features/performance/"
+    name = "Research"
+    url = "/research"
     weight = 1
   [[menu.footer_column_1]]
-    name = "Design System"
-    url = "/features/design-system/"
+    name = "Publications"
+    url = "/publications"
     weight = 2
   [[menu.footer_column_1]]
-    name = "Developer Experience"
-    url = "/features/developer-experience/"
+    name = "Software"
+    url = "/software"
     weight = 3
 
   # Footer Column 2 Menu
   [[menu.footer_column_2]]
-    name = "Blog"
-    url = "/blog"
+    name = "Professor"
+    url = "https://kangjoo.github.io/"
     weight = 1
   [[menu.footer_column_2]]
-    name = "About Us"
-    url = "/company"
+    name = "Members"
+    url = "/members"
     weight = 2
   [[menu.footer_column_2]]
-    name = "Careers"
+    name = "Join Us"
     url = "/careers"
     weight = 3
 
@@ -252,7 +269,7 @@ paginatePath = "page"
     name = "License"
     url = "/license"
     weight = 1
-  [[menu.footer_column_3]]
-    name = "Privacy Policy"
-    url = "/privacy"
-    weight = 2
+#  [[menu.footer_column_3]]
+#    name = "Privacy Policy"
+#    url = "/privacy"
+#    weight = 2
