@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bme on CNBD Lab</title>
-    <link>https://cnbdlab.github.io/tags/bme/</link>
+    <link>http://localhost:1313/tags/bme/</link>
     <description>Recent content in Bme on CNBD Lab</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 31 Dec 2025 12:57:39 -0500</lastBuildDate>
-    <atom:link href="https://cnbdlab.github.io/tags/bme/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/bme/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to the CNBD Lab</title>
-      <link>https://cnbdlab.github.io/blog/cnbd-intro/</link>
+      <link>http://localhost:1313/blog/cnbd-intro/</link>
       <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://cnbdlab.github.io/blog/cnbd-intro/</guid>
+      <guid>http://localhost:1313/blog/cnbd-intro/</guid>
       <description>&lt;div class=&#34;bg-gray-50 p-6 rounded-lg mb-8&#34;&gt;&#xA;    &lt;h2 class=&#34;text-xl font-semibold mb-4&#34;&gt;Table of Contents&lt;/h2&gt;&#xA;    &lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#introduction&#34;&gt;Introduction&lt;/a&gt;&lt;/li&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#about-the-cnbd-lab&#34;&gt;About the CNBD Lab&lt;/a&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#lab-location&#34;&gt;Lab Location&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#research-focus&#34;&gt;Research Focus&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#open-phd-positions&#34;&gt;Open PhD Positions&lt;/a&gt;&lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#conclusion&#34;&gt;Conclusion&lt;/a&gt;&lt;/li&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#resources&#34;&gt;Resources&lt;/a&gt;&lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;On January 5, 2026, I officially begin my role as an Assistant Professor and the Principal Investigator of the Computational Neuroimaging of Brain Disorders (CNBD) Laboratory in the Department of Biomedical Engineering at Florida International University. I created this website to serve as the main hub for communicating our science, sharing lab news, highlighting achievements, and supporting the professional development and visibility of our lab members.&lt;/p&gt;</description>
     </item>
   </channel>

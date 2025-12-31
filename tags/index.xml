@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on CNBD Lab</title>
-    <link>https://cnbdlab.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on CNBD Lab</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 31 Dec 2025 12:57:39 -0500</lastBuildDate>
-    <atom:link href="https://cnbdlab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bme</title>
-      <link>https://cnbdlab.github.io/tags/bme/</link>
+      <link>http://localhost:1313/tags/bme/</link>
       <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://cnbdlab.github.io/tags/bme/</guid>
+      <guid>http://localhost:1313/tags/bme/</guid>
       <description></description>
     </item>
     <item>
       <title>Cmbd</title>
-      <link>https://cnbdlab.github.io/tags/cmbd/</link>
+      <link>http://localhost:1313/tags/cmbd/</link>
       <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://cnbdlab.github.io/tags/cmbd/</guid>
+      <guid>http://localhost:1313/tags/cmbd/</guid>
       <description></description>
     </item>
     <item>
       <title>Fiu</title>
-      <link>https://cnbdlab.github.io/tags/fiu/</link>
+      <link>http://localhost:1313/tags/fiu/</link>
       <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://cnbdlab.github.io/tags/fiu/</guid>
+      <guid>http://localhost:1313/tags/fiu/</guid>
       <description></description>
     </item>
     <item>
       <title>Phd</title>
-      <link>https://cnbdlab.github.io/tags/phd/</link>
+      <link>http://localhost:1313/tags/phd/</link>
       <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://cnbdlab.github.io/tags/phd/</guid>
+      <guid>http://localhost:1313/tags/phd/</guid>
       <description></description>
     </item>
   </channel>

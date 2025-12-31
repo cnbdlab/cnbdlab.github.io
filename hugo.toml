@@ -25,7 +25,7 @@ paginatePath = "page"
 [params]
   description = ""
   author = "Kangjoo Lee"
-  logo = "/images/CNBD Lab_logo_brainonly.png"
+  logo = "/images/favicon.ico"
   # Google Analytics ID (e.g., "G-XXXXXXXXXX")
   googleAnalytics = "G-NMFHL4YZ34"
   
@@ -73,7 +73,7 @@ paginatePath = "page"
     
     # Logo configuration
     [params.header.logo]
-      src = "/images/CNBD Lab_logo_brainonly.png"
+      src = "/images/favicon.ico"
     
     # Menu configuration
     [params.header.menu]
