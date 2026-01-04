@@ -83,19 +83,19 @@ description: "Learn about our team and collaborators across the globe."
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             {{< team-member 
                 name="Recruiting"
-                title="Undergraduate Volunteers"
+                title="Undergraduate Volunteer"
                 image="/images/company/exec-3.svg"
                 linkedin="#"
             >}}
             {{< team-member 
                 name="Recruiting"
-                title="Undergraduate Volunteers"
+                title="Undergraduate Volunteer"
                 image="/images/company/exec-3.svg"
                 linkedin="#"
             >}}
             {{< team-member 
                 name="Recruiting"
-                title="Undergraduate Volunteers"
+                title="Undergraduate Volunteer"
                 image="/images/company/exec-3.svg"
                 linkedin="#"
             >}}
@@ -118,6 +118,53 @@ description: "Learn about our team and collaborators across the globe."
         </div>
     </div>
 {{< /section-container >}}
+
+
+
+{{< section-container class="py-20 bg-gray-50" >}}
+    <div class="max-w-6xl mx-auto">
+        <h2 class="text-3xl font-bold text-center mb-12">Collaborators</h2>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+            {{< team-member 
+                name="Angela Laird, PhD"
+                title="Professor, Florida International University"
+                image="/images/company/angela-laird.jpg"
+                linkedin="#"
+            >}}
+            {{< team-member 
+                name="Jorge Riera, PhD"
+                title="Professor, Florida International University"
+                image="/images/company/Jorge_Riera.jpg"
+                linkedin="#"
+            >}}
+            {{< team-member 
+                name="Mei Yi Ng, PhD"
+                title="Assistant Professor, Florida International University"
+                image="/images/company/mei-yi-ng.jpg"
+                linkedin="#"
+            >}}
+            {{< team-member 
+                name="Katherine Bottenhorn, PhD"
+                title="Assistant Professor, Florida International University"
+                image="/images/company/katherine-bottenhorn.jpg"
+                linkedin="#"
+            >}}
+            {{< team-member 
+                name="Catie Chang, PhD"
+                title="Assistant Professor, Vanderbilt University"
+                image="/images/company/2_Catie-Chang.jpg"
+                linkedin="#"
+            >}}
+            {{< team-member 
+                name="Christophe Grova, PhD"
+                title="Professor, Concordia University"
+                image="/images/company/christophe-grova.jpg"
+                linkedin="#"
+            >}}
+        </div>
+    </div>
+{{< /section-container >}}
+
 
 
 
