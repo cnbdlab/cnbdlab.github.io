@@ -27,7 +27,6 @@ description: "Learn about our team and collaborators across the globe."
                 name="Kangjoo Lee, PhD"
                 title="Principal Investigator"
                 image="/images/company/KangjooLee_Profile.jpg"
-                linkedin="https://www.linkedin.com/in/kangjoo-lee-31756630/"
             >}}
         </div>
 <p class="text-gray-700 text-lg">
@@ -49,7 +48,6 @@ description: "Learn about our team and collaborators across the globe."
                 name="Recruiting"
                 title="Postdoctoral Fellow"
                 image="/images/company/exec-1.svg"
-                linkedin="#"
             >}}
         </div>
     </div>
@@ -64,13 +62,11 @@ description: "Learn about our team and collaborators across the globe."
                 name="Recruiting"
                 title="PhD Student"
                 image="/images/company/exec-1.svg"
-                linkedin="#"
             >}}
             {{< team-member 
                 name="Recruiting"
                 title="PhD Student"
                 image="/images/company/exec-1.svg"
-                linkedin="#"
             >}}
         </div>
     </div>
@@ -85,19 +81,16 @@ description: "Learn about our team and collaborators across the globe."
                 name="Recruiting"
                 title="Undergraduate Volunteer"
                 image="/images/company/exec-3.svg"
-                linkedin="#"
             >}}
             {{< team-member 
                 name="Recruiting"
                 title="Undergraduate Volunteer"
                 image="/images/company/exec-3.svg"
-                linkedin="#"
             >}}
             {{< team-member 
                 name="Recruiting"
                 title="Undergraduate Volunteer"
                 image="/images/company/exec-3.svg"
-                linkedin="#"
             >}}
         </div>
     </div>
@@ -113,7 +106,6 @@ description: "Learn about our team and collaborators across the globe."
                 name="Recruiting"
                 title="Lab Manager"
                 image="/images/company/exec-2.svg"
-                linkedin="#"
             >}}
         </div>
     </div>
@@ -129,43 +121,36 @@ description: "Learn about our team and collaborators across the globe."
                 name="Angela Laird, PhD"
                 title="Professor, Florida International University"
                 image="/images/company/angela-laird.jpg"
-                linkedin="#"
             >}}
             {{< team-member 
                 name="Jorge Riera, PhD"
                 title="Professor, Florida International University"
                 image="/images/company/Jorge_Riera.jpg"
-                linkedin="#"
             >}}
             {{< team-member 
                 name="Dana McMakin, PhD"
                 title="Professor, Florida International University"
                 image="/images/company/dana-mcmakin.jpeg"
-                linkedin="#"
             >}}
             {{< team-member 
                 name="Mei Yi Ng, PhD"
                 title="Assistant Professor, Florida International University"
                 image="/images/company/mei-yi-ng.jpg"
-                linkedin="#"
             >}}
             {{< team-member 
                 name="Katherine Bottenhorn, PhD"
                 title="Assistant Professor, Florida International University"
                 image="/images/company/katherine-bottenhorn.jpg"
-                linkedin="#"
             >}}
             {{< team-member 
                 name="Catie Chang, PhD"
                 title="Assistant Professor, Vanderbilt University"
                 image="/images/company/2_Catie-Chang.jpg"
-                linkedin="#"
             >}}
             {{< team-member 
                 name="Christophe Grova, PhD"
                 title="Professor, Concordia University"
                 image="/images/company/christophe-grova.jpg"
-                linkedin="#"
             >}}
         </div>
     </div>
