@@ -138,6 +138,12 @@ description: "Learn about our team and collaborators across the globe."
                 linkedin="#"
             >}}
             {{< team-member 
+                name="Dana McMakin, PhD"
+                title="Professor, Florida International University"
+                image="/images/company/dana-mcmakin.jpeg"
+                linkedin="#"
+            >}}
+            {{< team-member 
                 name="Mei Yi Ng, PhD"
                 title="Assistant Professor, Florida International University"
                 image="/images/company/mei-yi-ng.jpg"
