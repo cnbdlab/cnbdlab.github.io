@@ -26,13 +26,13 @@ badgeColor: "#7c3aed"
 <a id="submitted-manuscripts" class="scroll-anchor"></a>
 <br><br>
 ## Submitted Manuscripts / Preprints 
-1.	Cross N, Pomares F, Uji M, Jegou A, Nguyen A, Lee K, Aydin U, Perrault A, Grova C, Dang-Vu TT, Sleep deprivation constrains dynamic reconfiguration of integrated and segregated brain states impacting cognitive performance. bioRxiv, 2025. doi: 10.1101/2025.10.21.683658.
+1.	Cross N, Pomares F, Uji M, Jegou A, Nguyen A, Lee K, Aydin U, Perrault A, Grova C, Dang-Vu TT, [Sleep deprivation constrains dynamic reconfiguration of integrated and segregated brain states impacting cognitive performance.](https://doi.org/10.1101/2025.10.21.683658) bioRxiv, 2025. doi: 10.1101/2025.10.21.683658.
 
-2.	Rahmati M, Moujaes F, Suljič NP, Ji JL, Berkovitch L, Lee K, Fonteneau C, Schleifer CH, Adkinson B, Savič A, Santamauro N, Tamayo Z, Diehl C, Kolobaric A, Flynn M, Camarro T, Curtis CE, Repovš G, Fineberg SK, Morgan P, Preller KH, Krystal JH, Murray JD, Cho YT, Anticevic A, Ketamine alters tuning of neural and behavioral spatial working memory precision. bioRxiv, 2025. doi: 10.1101/2025.02.10.637233. Submitted.
+2.	Rahmati M, Moujaes F, Suljič NP, Ji JL, Berkovitch L, Lee K, Fonteneau C, Schleifer CH, Adkinson B, Savič A, Santamauro N, Tamayo Z, Diehl C, Kolobaric A, Flynn M, Camarro T, Curtis CE, Repovš G, Fineberg SK, Morgan P, Preller KH, Krystal JH, Murray JD, Cho YT, Anticevic A, [Ketamine alters tuning of neural and behavioral spatial working memory precision.](https://doi.org/10.1101/2025.02.10.637233) bioRxiv, 2025. doi: 10.1101/2025.02.10.637233. Submitted.
 
-3.	Lee K*, Wang Y*, Cross NE, Jegou A, Razavipour F, Pomares FB, Perrault AA, Nguyen A, Aydin Ü, Uji M, Abdallah C, Anticevic A, Frauscher B, Benali H, Dang-Vu TT, Grova C. NREM sleep brain networks modulate cognitive recovery from sleep deprivation. bioRxiv [Preprint]. 2024 Jul 2:2024.06.28.601285. doi: 10.1101/2024.06.28.601285. PMID: 39005401; PMCID: PMC11244911. (*: co-first). 
+3.	Lee K*, Wang Y*, Cross NE, Jegou A, Razavipour F, Pomares FB, Perrault AA, Nguyen A, Aydin Ü, Uji M, Abdallah C, Anticevic A, Frauscher B, Benali H, Dang-Vu TT, Grova C. [NREM sleep brain networks modulate cognitive recovery from sleep deprivation.](https://doi.org/10.1101/2024.06.28.601285) bioRxiv [Preprint]. 2024 Jul 2:2024.06.28.601285. doi: 10.1101/2024.06.28.601285. PMID: 39005401; PMCID: PMC11244911. (*: co-first). 
 
-4.	Uji M, Jegou A, Cross NE, Pomares FB, Perrault AA, Nguyen A, Aydin Ü, Lee K, Abdallah C, Frauscher B, Lina J-M, Dang-Vu TT, Grova C. EEG source imaging technique to investigate sleep oscillations for simultaneous EEG-fMRI. bioRxiv, 2024. doi: 10.1101/2024.08.13.607843. 
+4.	Uji M, Jegou A, Cross NE, Pomares FB, Perrault AA, Nguyen A, Aydin Ü, Lee K, Abdallah C, Frauscher B, Lina J-M, Dang-Vu TT, Grova C. [EEG source imaging technique to investigate sleep oscillations for simultaneous EEG-fMRI.](https://doi.org/10.1101/2024.08.13.607843) bioRxiv, 2024. doi: 10.1101/2024.08.13.607843. 
 
 5.	Razavipour SF, Ali OBK, Lee K, Grimault S, Blinder S, Soucy J-P, Benali H, Gauthier CJ, Grova C. Multiresolution metabolic profile of functional hubness in the resting human brain. 2023. Submitted.
 
@@ -102,27 +102,27 @@ badgeColor: "#7c3aed"
 <a id="published-short" class="scroll-anchor"></a>
 <br><br>
 ## Publications: Proceedings Articles
-1.	Howell A, Cho YT, Murray JD, Anticevic A, Lee K. Dynamic structure-function coupling across intrinsic brain states reveals links to individual cognitive and behavioral outcomes. Biol Psychiatry. 2025 May; 97(9):S146. doi: 10.1016/j.biopsych.2025.02.361. Poster Presentation.
+1.	Howell A, Cho YT, Murray JD, Anticevic A, Lee K. [Dynamic structure-function coupling across intrinsic brain states reveals links to individual cognitive and behavioral outcomes.](https://doi.org/10.1016/j.biopsych.2025.02.361) Biol Psychiatry. 2025 May; 97(9):S146. doi: 10.1016/j.biopsych.2025.02.361. Poster Presentation.
 
-2.	Chen YD, Lin C, Okolo J, Brege S, Pham P, Lee K, Ji JL, Cho YT. Cognitive-motivational phenotypes in late childhood. Biol Psychiatry. 2025 May; 97(9):S254-255. doi: 10.1016/j.biopsych.2025.02.622. Poster Presentation.
+2.	Chen YD, Lin C, Okolo J, Brege S, Pham P, Lee K, Ji JL, Cho YT. [Cognitive-motivational phenotypes in late childhood.](https://doi.org/10.1016/j.biopsych.2025.02.622) Biol Psychiatry. 2025 May; 97(9):S254-255. doi: 10.1016/j.biopsych.2025.02.622. Poster Presentation.
 
-3.	Brege S, Lee K, Tamayo Z, Jong TG, Anticevic A, Ulhaas P, Cho YT, Fonteneau C. Identifying neurobiological mechanisms of psychosis-risk. Biol Psychiatry. 2025 May; 97(9):S321. doi: 10.1016/j.biopsych.2025.02.780. Poster Presentation.
+3.	Brege S, Lee K, Tamayo Z, Jong TG, Anticevic A, Ulhaas P, Cho YT, Fonteneau C. [Identifying neurobiological mechanisms of psychosis-risk.](https://doi.org/10.1016/j.biopsych.2025.02.780) Biol Psychiatry. 2025 May; 97(9):S321. doi: 10.1016/j.biopsych.2025.02.780. Poster Presentation.
 
-4.	Lee K, Ji JL, Fonteneau C, Berkovitch L, Rahmati M, Pan L, Repovš G, Krystal JH, Murray JD, Anticevic A. Human brain state dynamics reflect individual neuro-phenotypes. Biol Psychiatry. 2024 May; 95(10):S53. doi: 10.1016/j.biopsych.2024.02.133.
+4.	Lee K, Ji JL, Fonteneau C, Berkovitch L, Rahmati M, Pan L, Repovš G, Krystal JH, Murray JD, Anticevic A. [Human brain state dynamics reflect individual neuro-phenotypes.](https://doi.org/10.1016/j.biopsych.2024.02.133) Biol Psychiatry. 2024 May; 95(10):S53. doi: 10.1016/j.biopsych.2024.02.133.
 
-5.	Lee K, Fonteneau C, Price A, Berkovitch L, Ji JL, Tamayo Z, Afriyie-Agyemang Y, Howell A, Repovš G, Murray JD, Cho Y, Anticevic A. 450. Symptom severity of sample population impacts the reproducibility of neuro-symptom relationship in psychosis. Biol Psychiatry. 2024 May; 95(10):S284. doi: 10.1016/j.biopsych.2024.02.949. 
+5.	Lee K, Fonteneau C, Price A, Berkovitch L, Ji JL, Tamayo Z, Afriyie-Agyemang Y, Howell A, Repovš G, Murray JD, Cho Y, Anticevic A. [450. Symptom severity of sample population impacts the reproducibility of neuro-symptom relationship in psychosis.](https://doi.org/10.1016/j.biopsych.2024.02.949) Biol Psychiatry. 2024 May; 95(10):S284. doi: 10.1016/j.biopsych.2024.02.949. 
 
-6.	Ben-Zion Z,  Lee K, Fonteneau C, Liberzon I, Shalev AY, Hendler T, Levy I, Anticevic A, Harpaz-Rotem I. 41. Neurobehavioral mapping of posttraumatic stress disorder development in recent trauma survivors. Biol Psychiatry. 2024 May; 95(10):S92. doi: 10.1016/j.biopsych.2024.02.219.
+6.	Ben-Zion Z,  Lee K, Fonteneau C, Liberzon I, Shalev AY, Hendler T, Levy I, Anticevic A, Harpaz-Rotem I. [41. Neurobehavioral mapping of posttraumatic stress disorder development in recent trauma survivors.](https://doi.org/10.1016/j.biopsych.2024.02.219) Biol Psychiatry. 2024 May; 95(10):S92. doi: 10.1016/j.biopsych.2024.02.219.
 
-7.	Lin C, Fonteneau C, Lee K, Berkovitch L, Pan L, Tamayo Z, Wei X, Repovš G, Murray JD, Lui S, Gong Q, Anticevic A. 441. Mapping the neurobiological and behavioral progression of early course schizophrenia. Biol Psychiatry. 2023 May; 93(9):S273. doi: 10.1016/j.biopsych.2023.02.681.
+7.	Lin C, Fonteneau C, Lee K, Berkovitch L, Pan L, Tamayo Z, Wei X, Repovš G, Murray JD, Lui S, Gong Q, Anticevic A. [441. Mapping the neurobiological and behavioral progression of early course schizophrenia.](https://doi.org/10.1016/j.biopsych.2023.02.681) Biol Psychiatry. 2023 May; 93(9):S273. doi: 10.1016/j.biopsych.2023.02.681.
 
-8.	Berkovitch L, Fontaneau C, Lee K, Ji JL, Demsar J, Tamayo Z, Murray JD, Repovš G, Anticevic A. 217. Mapping individually actional brain-behavior space variation across the mood spectrum. Biol Psychiatry. 2023 May; 93(9):S181. doi: 10.1016/j.biopsych.2023.02.457.
+8.	Berkovitch L, Fontaneau C, Lee K, Ji JL, Demsar J, Tamayo Z, Murray JD, Repovš G, Anticevic A. [217. Mapping individually actional brain-behavior space variation across the mood spectrum.](https://doi.org/10.1016/j.biopsych.2023.02.457) Biol Psychiatry. 2023 May; 93(9):S181. doi: 10.1016/j.biopsych.2023.02.457.
 
-9.	Lee K, Han PK, Ye JC. Sparse dictionary learning for resting-state fMRI analysis. In Wavelets and Sparsity XIV, 81381X, Proc. SPIE. 2011 Sep; 8138:550-506. doi: 10.1117/12.894241.
+9.	Lee K, Han PK, Ye JC. [Sparse dictionary learning for resting-state fMRI analysis.](https://doi.org/10.1117/12.894241) In Wavelets and Sparsity XIV, 81381X, Proc. SPIE. 2011 Sep; 8138:550-506. doi: 10.1117/12.894241.
 
-10.	Lee K, Tak S, Ye JC. A data-driven spatially adaptive generalized linear model for functional MRI analysis. In 2011 IEEE International Symposium on Biomedical Imaging: From Nano to Macro. 2011 Mar; 1027-1030. IEEE. doi: 10.1109/ISBI.2011.5872576.
+10.	Lee K, Tak S, Ye JC. [A data-driven spatially adaptive generalized linear model for functional MRI analysis.](https://doi.org/10.1109/ISBI.2011.5872576) In 2011 IEEE International Symposium on Biomedical Imaging: From Nano to Macro. 2011 Mar; 1027-1030. IEEE. doi: 10.1109/ISBI.2011.5872576.
 
-11.	Lee K, Ye JC. Statistical parametric mapping of fMRI data using sparse dictionary learning. In 2010 IEEE International Symposium on Biomedical Imaging: From Nano to Macro. 2010 April; 660-663. IEEE. doi: 10.1109/ISBI.2010.5490090.
+11.	Lee K, Ye JC. [Statistical parametric mapping of fMRI data using sparse dictionary learning.](https://doi.org/10.1109/ISBI.2010.5490090) In 2010 IEEE International Symposium on Biomedical Imaging: From Nano to Macro. 2010 April; 660-663. IEEE. doi: 10.1109/ISBI.2010.5490090.
 
   
 <a href="#top" class="text-blue-600 hover:underline font-semibold">Back to Top</a>
