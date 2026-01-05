@@ -68,6 +68,11 @@ description: "Learn about our team and collaborators across the globe."
                 title="PhD Student"
                 image="/images/company/exec-1.svg"
             >}}
+            {{< team-member 
+                name="Recruiting"
+                title="Master's Student"
+                image="/images/company/exec-1.svg"
+            >}}
         </div>
     </div>
 {{< /section-container >}}
