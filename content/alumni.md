@@ -6,8 +6,8 @@ description: "Learn about our past members and collaborators across the globe."
 
 {{< section-container class="bg-gradient-to-b from-blue-50 via-blue-50 to-white pt-20 pb-32" >}}
     <div class="text-center">
-        <h1 class="text-4xl md:text-5xl font-bold mb-6">Past Members</h1>
-        <p class="text-xl text-gray-600 mb-16">We're a team of individuals with diverse backgrounds and experiences</p>
+        <h1 class="text-4xl md:text-5xl font-bold mb-6">Alumni</h1>
+        <p class="text-xl text-gray-600 mb-16">We are a team of researchers with diverse backgrounds and experiences, based in the Department of Biomedical Engineering within the College of Engineering and Computing at Florida International University.</p>
         <div class="max-w-3xl mx-auto bg-white rounded-xl shadow-sm p-8">
             <h2 class="text-3xl font-bold mb-4">Our Mission</h2>
             <p class="text-xl text-gray-600">
