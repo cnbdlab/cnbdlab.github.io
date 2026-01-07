@@ -12,7 +12,7 @@ layout: "job-single"
 
 ## About the Role
 
-The CNBD Lab is actively recruiting motivated undergraduate volunteers to join us **immediately**. Students with backgrounds in biomedical engineering, neuroscience, electrical engineering, computer science, physics, psychology, or related fields are encouraged to apply. Applicants should have strong interest in neuroimaging, computation, and brain disorders research.
+The CNBD Lab is actively recruiting motivated undergraduate volunteers to join us **as soon as possible**. Students with backgrounds in biomedical engineering, neuroscience, electrical engineering, computer science, physics, psychology, or related fields are encouraged to apply. Applicants should have strong interest in neuroimaging, computation, and brain disorders research.
 
 
 
