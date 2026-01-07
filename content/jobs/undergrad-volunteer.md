@@ -1,9 +1,9 @@
 ---
-title: "Undergrad Volunteer"
+title: "Undergrad Volunteers"
 date: 2026-01-06
-description: "Join our lab as undergraduate volunteers to learn innovative neuroimaging techniques"
+description: "Join our lab as undergraduate volunteers to gain hands-on experience in neuroimaging research"
 location: "Miami, FL (In Person)"
-type: "Full-time"
+type: "Part-time"
 salary: "unpaid"
 layout: "job-single"
 ---
