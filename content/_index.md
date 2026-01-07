@@ -14,7 +14,7 @@ client_logos:
   - name: "ISMRM"
     logo: "/images/logos/ismrm-logo.png"
 testimonials:
-  - name: "Open PhD positions"
+  - name: "Open Undergrad/M.S. positions"
     title: "Jan. 6, 2025"
     avatar: "/images/testimonial-1.svg"
     quote: "The CNBD Lab is recruiting several undergraduate volunteers and Master's students to join us in Fall 2026. Please contact Dr. Lee directly."
