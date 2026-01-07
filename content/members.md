@@ -81,7 +81,7 @@ description: "Learn about our team and collaborators across the globe."
 
 {{< section-container class="py-20 bg-gray-50" >}}
     <div class="max-w-6xl mx-auto">
-        <h2 class="text-3xl font-bold text-center mb-12">Postgraduate Volunteers</h2>
+        <h2 class="text-3xl font-bold text-center mb-12">Postgraduate Researchers</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             {{< team-member 
                 name="Recruiting"
@@ -96,7 +96,7 @@ description: "Learn about our team and collaborators across the globe."
 
 {{< section-container class="py-20 bg-gray-50" >}}
     <div class="max-w-6xl mx-auto">
-        <h2 class="text-3xl font-bold text-center mb-12">Undergraduate Volunteers</h2>
+        <h2 class="text-3xl font-bold text-center mb-12">Undergraduate Students</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             {{< team-member 
                 name="Recruiting"
