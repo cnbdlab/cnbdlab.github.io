@@ -1,5 +1,5 @@
 ---
-title: "Undergrad Volunteers"
+title: "Undergrad Volunteers (only FIU)"
 date: 2026-01-06
 description: "Join our lab as undergraduate volunteers to gain hands-on experience in neuroimaging research"
 location: "Miami, FL (In Person)"
@@ -12,7 +12,7 @@ layout: "job-single"
 
 ## About the Role
 
-The CNBD Lab is actively recruiting motivated undergraduate volunteers to join us **as soon as possible**. Students with backgrounds in biomedical engineering, neuroscience, electrical engineering, computer science, physics, psychology, or related fields are encouraged to apply. Applicants should have strong interest in neuroimaging, computation, and brain disorders research.
+Hello FIU Panthers! The CNBD Lab is actively recruiting motivated undergraduate volunteers to join us **as soon as possible**. Students with backgrounds in biomedical engineering, neuroscience, electrical engineering, computer science, physics, psychology, or related fields are encouraged to apply. Applicants should have strong interest in neuroimaging, computation, and brain disorders research.
 
 
 
@@ -31,7 +31,7 @@ Applicants are encouraged to have completed coursework with **proficiency (B ave
 ## Nice to Have
 
 - Prior knowledge in neuroimaging
-- Experience in programming: Python, R, Matlab
+- Experience in programming: Python, Shell, R, Matlab
 - Bilingual: English and Spanish (if planning to conduct clinical research projects)
 
 

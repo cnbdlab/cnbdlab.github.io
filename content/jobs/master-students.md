@@ -1,10 +1,10 @@
 ---
-title: "Master's Student"
+title: "Master's Student (only FIU)"
 date: 2026-01-06
 description: "Join our lab as a Master's student to lead innovative research projects"
 location: "Miami, FL (In Person)"
 type: "Full-time"
-salary: "$00K - $00K"
+salary: "$00K - 00K"
 layout: "job-single"
 ---
 
@@ -12,7 +12,7 @@ layout: "job-single"
 
 ## About the Role
 
-The CNBD Lab is actively recruiting a motivated Master's student to join us in **Fall 2026** through the BME or related Engineering program at FIU. Students with backgrounds in biomedical engineering, neuroscience, electrical engineering, computer science, physics, psychology, or related fields are encouraged to apply. Applicants should have strong interest in neuroimaging, computation, and brain disorders research.
+Hello FIU Panthers! The CNBD Lab is actively recruiting a motivated Master's student to join us in **Fall 2026** through the BME or related Engineering program at FIU. If you have been accepted for FIU's master's program in engineerig and are looking for a lab to initiate your graduate studies, this is an ideal opportunity for you! <br><br> Students with backgrounds in biomedical engineering, neuroscience, electrical engineering, computer science, physics, psychology, or related fields are encouraged to apply. Applicants should have strong interest in neuroimaging, computation, and brain disorders research.
 
 
 ## Prerequisites and Requirements
@@ -39,6 +39,8 @@ International students are welcome to apply. See FIU’s [international applican
 ## Nice to Have
 
 - Completion of a Bachelor’s degree in a related field.
+- Experiences in Neuroimaging analysis and preprocessing
+- Experiences in Programming: Python, Shell, R and/or Matlab
 - Bilingual: English and Spanish (if planning to conduct clinical research projects)
 
 
