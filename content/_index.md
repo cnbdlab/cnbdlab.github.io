@@ -13,6 +13,8 @@ client_logos:
     logo: "/images/logos/aes-logo.png"
   - name: "ISMRM"
     logo: "/images/logos/ismrm-logo.png"
+  - name: "ACNP"
+    logo: "/images/logos/acnp-logo.png"
 testimonials:
   - name: "Open Undergrad/M.S. positions"
     title: "Jan. 6, 2025"
