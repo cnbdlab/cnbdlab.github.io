@@ -17,7 +17,7 @@ culture_section:
       description: "We are seeking two PhD students to start in Fall 2026 through the FIU BME PhD program."
     - icon: "📚"
       title: "Master's Students"
-      description: "We welcome Master's students who have been accepted for FIU BME or related programs. Please email Dr. Lee your CV and research statement if you are looking for a lab to join."
+      description: "We currently do not have fundings to hire a new Master's student. We welcome Master's students who have been accepted for FIU BME or related programs. Please email Dr. Lee your CV and research statement if you are looking for a lab to join."
     - icon: "🌟"
       title: "Undergraduate Students"
       description: "We are currently looking for two or three undergraduate students from diverse backgrounds including neuroscience, psychology, engineering and computer science."

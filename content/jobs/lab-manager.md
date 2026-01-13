@@ -1,5 +1,5 @@
 ---
-title: "Lab Manager"
+title: "Lab Manager (not yet)"
 date: 2023-11-14
 description: "We're seeking a Lab Manager to oversee and support our projects"
 location: "Miami, FL (In Person)"
