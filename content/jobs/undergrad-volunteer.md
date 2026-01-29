@@ -1,6 +1,6 @@
 ---
-title: "Undergrad Volunteers (only FIU)"
-date: 2026-01-06
+title: "Undergrad Volunteers (only FIU) - CLOSED"
+date: 2026-01-29
 description: "Join our lab as undergraduate volunteers to gain hands-on experience in neuroimaging research"
 location: "Miami, FL (In Person)"
 type: "Part-time"

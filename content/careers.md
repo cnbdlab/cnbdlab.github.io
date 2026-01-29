@@ -20,7 +20,8 @@ culture_section:
       description: "We currently do not have fundings to hire a new Master's student. We welcome Master's students who have been accepted for FIU BME or related programs. Please email Dr. Lee your CV and research statement if you are looking for a lab to join."
     - icon: "🌟"
       title: "Undergraduate Students"
-      description: "We are currently looking for two or three undergraduate students from diverse backgrounds including neuroscience, psychology, engineering and computer science."
+      description: "Recruitment closed: all undergraduate volunteer positions have been filled."
+#"We are currently looking for two or three undergraduate students from diverse backgrounds including neuroscience, psychology, engineering and computer science."
 
 positions_section:
   title: "Open Positions"
