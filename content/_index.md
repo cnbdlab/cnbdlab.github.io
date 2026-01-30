@@ -16,7 +16,7 @@ client_logos:
   - name: "ACNP"
     logo: "/images/logos/acnp-logo.png"
 testimonials:
-  - name: "Open Undergrad/M.S. positions - CLOSED"
+  - name: "Undergrad/M.S. positions - FILLED"
     title: "Jan. 30, 2026"
     avatar: "/images/testimonial-1.svg"
     quote: "Undergraduate volunteer applications are officially closed—stay tuned for future opportunities!"
