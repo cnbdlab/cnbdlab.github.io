@@ -29,7 +29,7 @@ description: "Learn about our team and collaborators across the globe."
                 image="/images/company/KangjooLee_Profile.jpg"
             >}}
 <p class="text-gray-700 text-lg">
-            <strong>Assistant Professor</strong><br>
+            Assistant Professor<br>
 	    Dept of Biomedical Engineering<br>
             College of Engineering and Computing<br>
             Florida International University, Miami, FL, USA<br>
