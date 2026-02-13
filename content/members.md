@@ -33,6 +33,7 @@ description: "Learn about our team and collaborators across the globe."
 	    Dept of Biomedical Engineering<br>
             College of Engineering and Computing<br>
             Florida International University, Miami, FL, USA<br>
+            <strong>Phone</strong>: 305-348-7340<br>
             <strong>Email</strong>: kalee@fiu.edu<br>
 	    <strong>Office</strong>: EC 2675<br>
 	    <a href="https://cec.fiu.edu/about/directory/profiles/kangjoo-lee.html" target="_blank" class="text-blue-600 hover:underline">FIU CEC Faculty Directory</a><br>
