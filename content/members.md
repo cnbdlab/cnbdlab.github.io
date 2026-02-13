@@ -35,6 +35,7 @@ description: "Learn about our team and collaborators across the globe."
             Florida International University, Miami, FL, USA<br>
             <strong>Email</strong>: kalee@fiu.edu<br>
 	    <strong>Office</strong>: EC 2675<br>
+	    <a href="https://cec.fiu.edu/about/directory/profiles/kangjoo-lee.html" target="_blank" class="text-blue-600 hover:underline">FIU CEC Faculty Directory</a><br>
             <a href="https://scholar.google.com/citations?user=m76VpV8AAAAJ&hl=en" target="_blank" class="text-blue-600 hover:underline">Google Scholar</a><br>
             <a href="https://kangjoo.github.io/" target="_blank" class="text-blue-600 hover:underline">Personal Homepage</a><br>
         </p>
