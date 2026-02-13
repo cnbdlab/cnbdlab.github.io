@@ -28,7 +28,6 @@ description: "Learn about our team and collaborators across the globe."
                 title="Principal Investigator"
                 image="/images/company/KangjooLee_Profile.jpg"
             >}}
-        </div>
 <p class="text-gray-700 text-lg">
             Assistant Professor<br>Dept of Biomedical Engineering<br>
             College of Engineering and Computing<br>
@@ -36,6 +35,7 @@ description: "Learn about our team and collaborators across the globe."
             <a href="https://scholar.google.com/citations?user=m76VpV8AAAAJ&hl=en" target="_blank" class="text-blue-600 hover:underline">Google Scholar</a><br>
             <a href="https://kangjoo.github.io/" target="_blank" class="text-blue-600 hover:underline">Personal Homepage</a><br>
         </p>
+        </div>
     </div>
 {{< /section-container >}}
 
@@ -84,10 +84,17 @@ description: "Learn about our team and collaborators across the globe."
         <h2 class="text-3xl font-bold text-center mb-12">Postgraduate Researchers</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             {{< team-member 
-                name="Recruiting"
+                name="Elysa Barrera"
                 title="Postgraduate Volunteer"
-                image="/images/company/exec-3.svg"
+                image="/images/company/elysa-barrera.jpeg"
             >}}
+		<p class="text-gray-700 text-lg">
+           	 <strong>Degree</strong>: Bachelor’s of Science in Behavioral Neuroscience, FIU (2025)<br>
+           	 <strong>Focus Area</strong>: Functional neuroimaging and brain-behavior modeling in schizophrenia <br>
+           	 <strong>Fun fact</strong>: I am a vinyl record collector and a dog mom.<br>
+		 <strong>Email</strong>: ebarr151@fiu.edu<br>
+		 <strong>Office</strong>: EC 3160<br>
+       		</p>
         </div>
     </div>
 {{< /section-container >}}
@@ -99,15 +106,18 @@ description: "Learn about our team and collaborators across the globe."
         <h2 class="text-3xl font-bold text-center mb-12">Undergraduate Students</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             {{< team-member 
-                name="Recruiting"
+                name="Diego Mora Ramos"
                 title="Undergraduate Volunteer"
-                image="/images/company/exec-3.svg"
+                image="/images/company/diego-mora.jpeg"
             >}}
-            {{< team-member 
-                name="Recruiting"
-                title="Undergraduate Volunteer"
-                image="/images/company/exec-3.svg"
-            >}}
+		<p class="text-gray-700 text-lg">
+           	 <strong>Degree Program</strong>: Bachelor’s of Science in Biomedical Engineering<br>
+		 <strong>Expected Graduation</strong>: Fall 2026<br>
+           	 <strong>Focus Area</strong>: Computational neuroimaging and biomedical data analysis.<br>
+           	 <strong>Fun fact</strong>: I enjoy learning new languages and collect superhero action figures.<br>
+		 <strong>Email</strong>: dmora207@fiu.edu<br>
+		 <strong>Office</strong>: EC 3160<br>
+       		</p>
         </div>
     </div>
 {{< /section-container >}}
@@ -220,8 +230,8 @@ description: "Learn about our team and collaborators across the globe."
     <div class="max-w-6xl mx-auto">
         <div class="grid grid-cols-1 md:grid-cols-4 gap-8 text-center">
             {{< stat number="2026" label="Founded" >}}
-            {{< stat number="1+" label="Team Members" >}}
-            {{< stat number="0+" label="Alumni" >}}
+            {{< stat number="3" label="Team Members" >}}
+            {{< stat number="0" label="Alumni" >}}
             {{< stat number="20+" label="Publications" >}}
         </div>
     </div>
