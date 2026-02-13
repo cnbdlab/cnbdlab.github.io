@@ -163,6 +163,11 @@ description: "Learn about our team and collaborators across the globe."
                 image="/images/company/dana-mcmakin.jpeg"
             >}}
             {{< team-member 
+                name="Aaron Mattfeld, PhD"
+                title="Associate Professor, Florida International University"
+                image="/images/company/aaron-mattfeld.jpeg"
+            >}}
+            {{< team-member 
                 name="Mei Yi Ng, PhD"
                 title="Assistant Professor, Florida International University"
                 image="/images/company/mei-yi-ng.jpg"
