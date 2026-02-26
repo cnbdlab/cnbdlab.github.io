@@ -2,7 +2,7 @@
 title: "Volunteer Needed for Neuroscience Outreach Event in May"
 date: 2026-02-26
 author: "Kangjoo Lee"
-description: We are seeking a team of young neuroscientists to lead a 1-hour neuroscience outreach session for middle school students in Miami."
+description: We are seeking a team of young neuroscientists to lead a 1-hour neuroscience outreach session for elementary/middle school students in Miami."
 categories: ["events","recruitment"]
 tags: ["fiu", "ohbm", "bmt", "outreach"]
 featured_image: "/images/blog/OHBM_2026_horiz_color.png"
@@ -16,7 +16,7 @@ featured_image: "/images/blog/OHBM_2026_horiz_color.png"
 
 Brain Mappers of Tomorrow (BMT) is an annual international outreach initiative of the Organization for Human Brain Mapping (OHBM), led by its Diversity & Inclusivity Committee. The initiative aims to make neuroscience and brain mapping accessible to children and young learners through engaging, interactive, and multilingual science communication.
 
-Dr. Lee is currently seeking a team of motivated young neuroscientists (senior undergraduate students, graduate students, or postdoctoral fellows) at FIU to lead a one-hour neuroscience outreach session for 20–25 middle school students in Miami.
+Dr. Lee is currently seeking a team of motivated young neuroscientists (senior undergraduate students, graduate students, or postdoctoral fellows) at FIU to lead a one-hour neuroscience outreach session for 20–25 elementary or middle school students in Miami.
 
 This local session will be organized as part of the 7th annual OHBM Brain Mappers of Tomorrow initiative described below.
 
@@ -45,6 +45,18 @@ Each session lasts one hour. Scientists present their research in an accessible 
 The 2026 OHBM Annual Meeting will take place in Bordeaux, France (June 14–18, 2026), and will feature an in-person live review event. In this special format, young reviewers read simplified research manuscripts in advance and conduct a live peer review during the session. They ask questions and decide whether the manuscript should be “Accepted with revisions” or “Rejected,” mirroring the real scientific review process.
 
 Accepted manuscripts may be published in the kid-friendly journal Frontiers for Young Minds.
+
+
+### Currently, we are looking for a group of researchers to present in French at the OHBM annual meeting.
+
+French language in-person session, closes on March 31: https://forms.gle/vFUQqvAJVx65RUmx5
+
+### We are also looking for volunteer organizers for the satellite sessions. We will work with the organizers to coordinate a presenter as well as identify potential young audience members in their local community.
+
+All other satellite language sessions, closes on April 30 : https://docs.google.com/forms/d/1QPhdHc5hpQOQHKh10wrLRJjVnYWEVVqX_iBVtCxhUME/edit
+
+
+
 </em>
 
 📺 **YouTube Playlist (Past Events):**  
