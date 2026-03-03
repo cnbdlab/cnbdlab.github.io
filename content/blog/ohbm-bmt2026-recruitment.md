@@ -5,7 +5,7 @@ author: "Kangjoo Lee"
 description: We are seeking a team of young neuroscientists to lead a 1-hour neuroscience outreach session for elementary/middle school students in Miami."
 categories: ["events","recruitment"]
 tags: ["fiu", "ohbm", "bmt", "outreach"]
-featured_image: "/images/blog/OHBM_2026_horiz_color.png"
+featured_image: "/images/blog/FIU_OHBM_BMT.png"
 ---
 
 {{< toc >}}
@@ -28,36 +28,8 @@ This local session will be organized as part of the 7th annual OHBM Brain Mapper
 >}}
 
 
----
-
-### About the OHBM Brain Mappers of Tomorrow Initiative
-
 See the full program description on the OHBM DIC website:  
 https://ohbm-dic.github.io/kidsreview/2026/
-
-<em>
-The Diversity and Inclusivity Committee (DIC) of OHBM is once again hosting Brain Mappers of Tomorrow (formerly Multilingual Kids Live Review) in 2026. This is a free public event open to all, including non-OHBM members.
-
-In past years, more than 20 sessions were held in 15 different languages, connecting OHBM scientists with children and youth (ages 8–15) worldwide. The goal is simple but powerful: help young learners understand cutting-edge brain research and become excited about science.
-
-Each session lasts one hour. Scientists present their research in an accessible way and engage directly with children through interactive Q&A.
-
-The 2026 OHBM Annual Meeting will take place in Bordeaux, France (June 14–18, 2026), and will feature an in-person live review event. In this special format, young reviewers read simplified research manuscripts in advance and conduct a live peer review during the session. They ask questions and decide whether the manuscript should be “Accepted with revisions” or “Rejected,” mirroring the real scientific review process.
-
-Accepted manuscripts may be published in the kid-friendly journal Frontiers for Young Minds.
-
-
-### Currently, we are looking for a group of researchers to present in French at the OHBM annual meeting.
-
-French language in-person session, closes on March 31: https://forms.gle/vFUQqvAJVx65RUmx5
-
-### We are also looking for volunteer organizers for the satellite sessions. We will work with the organizers to coordinate a presenter as well as identify potential young audience members in their local community.
-
-All other satellite language sessions, closes on April 30 : https://docs.google.com/forms/d/1QPhdHc5hpQOQHKh10wrLRJjVnYWEVVqX_iBVtCxhUME/edit
-
-
-
-</em>
 
 📺 **YouTube Playlist (Past Events):**  
 https://www.youtube.com/playlist?list=PLALeKAtQ52KqEaW3ugpekvld-nt52ElPm
@@ -123,26 +95,6 @@ Responsibilities:
 I strongly encourage interested students to reach out as soon as possible so we can plan the event (target: late May).
 
 If you are passionate about neuroimaging, computational modeling, mental health research, and making a positive impact on education and society — I would love to hear from you.
-
----
-
-## 📸 Gallery: Past Brain Mappers of Tomorrow Events
-
-<div style="display: flex; gap: 1rem; flex-wrap: wrap;">
-
-  <div style="flex: 1 1 30%; text-align: center;">
-    <img src="/images/blog/BMT2023_1.jpg" alt="BMT 2023 outreach session photo 1" style="width:100%; border-radius:8px;">
-  </div>
-
-  <div style="flex: 1 1 30%; text-align: center;">
-    <img src="/images/blog/BMT2023_2.jpg" alt="BMT 2023 outreach session photo 2" style="width:100%; border-radius:8px;">
-  </div>
-
-  <div style="flex: 1 1 30%; text-align: center;">
-    <img src="/images/blog/BMT2023_3.jpg" alt="BMT 2023 outreach session photo 3" style="width:100%; border-radius:8px;">
-  </div>
-
-</div>
 
 ---
 
