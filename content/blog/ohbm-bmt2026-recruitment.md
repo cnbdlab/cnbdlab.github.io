@@ -5,10 +5,15 @@ author: "Kangjoo Lee"
 description: We are seeking a team of young neuroscientists to lead a 1-hour neuroscience outreach session for elementary/middle school students in Miami."
 categories: ["events","recruitment"]
 tags: ["fiu", "ohbm", "bmt", "outreach"]
-featured_image: "/images/blog/FIU_OHBM_BMT.png"
+featured_image: "/images/blog/BMT_gemini.png"
 ---
 
 {{< toc >}}
+
+
+
+<span style="font-size:0.85em;"><em>The image displayed at the top was generated using Gemini (Google AI).</em></span>
+
 
 ## Introduction
 
