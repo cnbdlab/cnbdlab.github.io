@@ -26,17 +26,20 @@ badgeColor: "#7c3aed"
 <a id="submitted-manuscripts" class="scroll-anchor"></a>
 <br><br>
 ## Submitted Manuscripts / Preprints 
-1.	Cross N, Pomares F, Uji M, Jegou A, Nguyen A, Lee K, Aydin U, Perrault A, Grova C, Dang-Vu TT, [Sleep deprivation constrains dynamic reconfiguration of integrated and segregated brain states impacting cognitive performance.](https://doi.org/10.1101/2025.10.21.683658) bioRxiv, 2025. doi: 10.1101/2025.10.21.683658.
 
-2.	Rahmati M, Moujaes F, Suljič NP, Ji JL, Berkovitch L, Lee K, Fonteneau C, Schleifer CH, Adkinson B, Savič A, Santamauro N, Tamayo Z, Diehl C, Kolobaric A, Flynn M, Camarro T, Curtis CE, Repovš G, Fineberg SK, Morgan P, Preller KH, Krystal JH, Murray JD, Cho YT, Anticevic A, [Ketamine alters tuning of neural and behavioral spatial working memory precision.](https://doi.org/10.1101/2025.02.10.637233) bioRxiv, 2025. doi: 10.1101/2025.02.10.637233. Submitted.
+1.	Lee K, Yip SW, Pittenger C, [The Promise and Challenges of Mapping Brain-behavior Associations in Psychiatry: A New Leap Forward.](https://www.biologicalpsychiatryjournal.com/), Biological Psychiatry, 2026. Accepted (Commentary).
 
-3.	Lee K*, Wang Y*, Cross NE, Jegou A, Razavipour F, Pomares FB, Perrault AA, Nguyen A, Aydin Ü, Uji M, Abdallah C, Anticevic A, Frauscher B, Benali H, Dang-Vu TT, Grova C. [NREM sleep brain networks modulate cognitive recovery from sleep deprivation.](https://doi.org/10.1101/2024.06.28.601285) bioRxiv [Preprint]. 2024 Jul 2:2024.06.28.601285. doi: 10.1101/2024.06.28.601285. PMID: 39005401; PMCID: PMC11244911. (*: co-first). 
+2.	Oestreich L, Totzek JF, J. Ratnanather JT, Kam J, Borghesani V, Mah L, Olsen RK, Haroon HA, Martiniello N, Lee K. [Accessibility in Academic Conferences: Barriers, Solutions, and a Framework for Inclusive Participation.](https://osf.io/preprints/psyarxiv/hf9b2_v1) PsyArXiv, 2026. doi: 10.31234/osf.io/hf9b2_v1
 
-4.	Oestreich L, Totzek JF, J. Ratnanather JT, Kam J, Borghesani V, Mah L, Olsen RK, Haroon HA, Martiniello N, Lee K. [Accessibility in Academic Conferences: Barriers, Solutions, and a Framework for Inclusive Participation.](https://osf.io/preprints/psyarxiv/hf9b2_v1) PsyArXiv, 2026. doi: 10.31234/osf.io/hf9b2_v1
+3.	Cross N, Pomares F, Uji M, Jegou A, Nguyen A, Lee K, Aydin U, Perrault A, Grova C, Dang-Vu TT, [Sleep deprivation constrains dynamic reconfiguration of integrated and segregated brain states impacting cognitive performance.](https://doi.org/10.1101/2025.10.21.683658) bioRxiv, 2025. doi: 10.1101/2025.10.21.683658. Under Review.
 
-5.	Uji M, Jegou A, Cross NE, Pomares FB, Perrault AA, Nguyen A, Aydin Ü, Lee K, Abdallah C, Frauscher B, Lina J-M, Dang-Vu TT, Grova C. [EEG source imaging technique to investigate sleep oscillations for simultaneous EEG-fMRI.](https://doi.org/10.1101/2024.08.13.607843) bioRxiv, 2024. doi: 10.1101/2024.08.13.607843. 
+4.	Rahmati M, Moujaes F, Suljič NP, Ji JL, Berkovitch L, Lee K, Fonteneau C, Schleifer CH, Adkinson B, Savič A, Santamauro N, Tamayo Z, Diehl C, Kolobaric A, Flynn M, Camarro T, Curtis CE, Repovš G, Fineberg SK, Morgan P, Preller KH, Krystal JH, Murray JD, Cho YT, Anticevic A, [Ketamine alters tuning of neural and behavioral spatial working memory precision.](https://doi.org/10.1101/2025.02.10.637233) bioRxiv, 2025. doi: 10.1101/2025.02.10.637233. Submitted.
 
-6.	Razavipour SF, Ali OBK, Lee K, Grimault S, Blinder S, Soucy J-P, Benali H, Gauthier CJ, Grova C. Multiresolution metabolic profile of functional hubness in the resting human brain. 2023. Submitted.
+5.	Lee K*, Wang Y*, Cross NE, Jegou A, Razavipour F, Pomares FB, Perrault AA, Nguyen A, Aydin Ü, Uji M, Abdallah C, Anticevic A, Frauscher B, Benali H, Dang-Vu TT, Grova C. [NREM sleep brain networks modulate cognitive recovery from sleep deprivation.](https://doi.org/10.1101/2024.06.28.601285) bioRxiv [Preprint]. 2024 Jul 2:2024.06.28.601285. doi: 10.1101/2024.06.28.601285. PMID: 39005401; PMCID: PMC11244911. (*: co-first). Submitted.
+
+6.	Uji M, Jegou A, Cross NE, Pomares FB, Perrault AA, Nguyen A, Aydin Ü, Lee K, Abdallah C, Frauscher B, Lina J-M, Dang-Vu TT, Grova C. [EEG source imaging technique to investigate sleep oscillations for simultaneous EEG-fMRI.](https://doi.org/10.1101/2024.08.13.607843) bioRxiv, 2024. doi: 10.1101/2024.08.13.607843. Submitted.
+
+7.	Razavipour SF, Ali OBK, Lee K, Grimault S, Blinder S, Soucy J-P, Benali H, Gauthier CJ, Grova C. Multiresolution metabolic profile of functional hubness in the resting human brain. 2023. Submitted.
 
 
 <a href="#top" class="text-blue-600 hover:underline font-semibold">Back to Top</a>
