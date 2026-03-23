@@ -32,9 +32,11 @@ badgeColor: "#7c3aed"
 
 3.	Lee K*, Wang Y*, Cross NE, Jegou A, Razavipour F, Pomares FB, Perrault AA, Nguyen A, Aydin Ü, Uji M, Abdallah C, Anticevic A, Frauscher B, Benali H, Dang-Vu TT, Grova C. [NREM sleep brain networks modulate cognitive recovery from sleep deprivation.](https://doi.org/10.1101/2024.06.28.601285) bioRxiv [Preprint]. 2024 Jul 2:2024.06.28.601285. doi: 10.1101/2024.06.28.601285. PMID: 39005401; PMCID: PMC11244911. (*: co-first). 
 
-4.	Uji M, Jegou A, Cross NE, Pomares FB, Perrault AA, Nguyen A, Aydin Ü, Lee K, Abdallah C, Frauscher B, Lina J-M, Dang-Vu TT, Grova C. [EEG source imaging technique to investigate sleep oscillations for simultaneous EEG-fMRI.](https://doi.org/10.1101/2024.08.13.607843) bioRxiv, 2024. doi: 10.1101/2024.08.13.607843. 
+4.	Oestreich L, Totzek JF, J. Ratnanather JT, Kam J, Borghesani V, Mah L, Olsen RK, Haroon HA, Martiniello N, Lee K. [Accessibility in Academic Conferences: Barriers, Solutions, and a Framework for Inclusive Participation.](https://osf.io/preprints/psyarxiv/hf9b2_v1) PsyArXiv, 2026. doi: 10.31234/osf.io/hf9b2_v1
 
-5.	Razavipour SF, Ali OBK, Lee K, Grimault S, Blinder S, Soucy J-P, Benali H, Gauthier CJ, Grova C. Multiresolution metabolic profile of functional hubness in the resting human brain. 2023. Submitted.
+5.	Uji M, Jegou A, Cross NE, Pomares FB, Perrault AA, Nguyen A, Aydin Ü, Lee K, Abdallah C, Frauscher B, Lina J-M, Dang-Vu TT, Grova C. [EEG source imaging technique to investigate sleep oscillations for simultaneous EEG-fMRI.](https://doi.org/10.1101/2024.08.13.607843) bioRxiv, 2024. doi: 10.1101/2024.08.13.607843. 
+
+6.	Razavipour SF, Ali OBK, Lee K, Grimault S, Blinder S, Soucy J-P, Benali H, Gauthier CJ, Grova C. Multiresolution metabolic profile of functional hubness in the resting human brain. 2023. Submitted.
 
 
 <a href="#top" class="text-blue-600 hover:underline font-semibold">Back to Top</a>
