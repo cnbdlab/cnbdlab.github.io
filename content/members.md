@@ -129,7 +129,7 @@ description: "Learn about our team and collaborators across the globe."
             {{< team-member 
                 name="Linda Natalia Bonilla"
                 title="Undergraduate Student (ARCH Program)"
-                image="/images/company/linda-natalia.jpg"
+                image="/images/company/linda-natalia-bonilla.jpg"
             >}}
 		<p class="text-gray-700 text-lg">
            	 <strong>Degree Program</strong>: BS in Biomedical Engineering<br>
