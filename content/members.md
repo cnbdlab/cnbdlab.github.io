@@ -91,7 +91,7 @@ description: "Learn about our team and collaborators across the globe."
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             {{< team-member 
                 name="Elysa Barrera"
-                title="Postgraduate Volunteer"
+                title="Postgraduate Intern"
                 image="/images/company/elysa-barrera.jpeg"
             >}}
 		<p class="text-gray-700 text-lg">
@@ -113,7 +113,7 @@ description: "Learn about our team and collaborators across the globe."
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             {{< team-member 
                 name="Diego Mora Ramos"
-                title="Undergraduate Volunteer"
+                title="Undergraduate Intern"
                 image="/images/company/diego-mora.jpeg"
             >}}
 		<p class="text-gray-700 text-lg">
@@ -123,6 +123,23 @@ description: "Learn about our team and collaborators across the globe."
            	 <strong>Fun fact</strong>: I enjoy learning new languages and collect superhero action figures.<br>
 		 <strong>Email</strong>: dmora207@fiu.edu<br>
 		 <strong>Office</strong>: EC 3160<br>
+       		</p>
+		<p class="text-gray-700 text-lg">
+       		</p>
+            {{< team-member 
+                name="Linda Natalia Bonilla"
+                title="Undergraduate ARCH student"
+                image="/images/company/linda-natalia.png"
+            >}}
+		<p class="text-gray-700 text-lg">
+           	 <strong>Degree Program</strong>: BS in Biomedical Engineering<br>
+		 <strong>Expected Graduation</strong>: Summer 2027<br>
+           	 <strong>Focus Area</strong>: Multimodal EEG-fMRI data analysis.<br>
+           	 <strong>Fun fact</strong>: Big fan of coffee and gym time.<br>
+		 <strong>Email</strong>: lboni029@fiu.edu<br>
+		 <strong>Office</strong>: EC 3160<br>
+       		</p>
+		<p class="text-gray-700 text-lg">
        		</p>
         </div>
     </div>
