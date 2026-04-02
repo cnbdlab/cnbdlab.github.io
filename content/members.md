@@ -123,7 +123,11 @@ description: "Learn about our team and collaborators across the globe."
 	           	 <strong>Fun fact</strong>: I enjoy learning new languages and collect superhero action figures.<br>
 			 <strong>Email</strong>: dmora207@fiu.edu<br>
 			 <strong>Office</strong>: EC 3160<br>
-       		</p>
+       		</p>		
+        </div>
+    </div>
+    <div class="max-w-6xl mx-auto">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             {{< team-member 
                 name="Diego Mora Ramos"
                 title="Undergraduate Intern"
@@ -136,9 +140,9 @@ description: "Learn about our team and collaborators across the globe."
 	           	 <strong>Fun fact</strong>: I enjoy learning new languages and collect superhero action figures.<br>
 			 <strong>Email</strong>: dmora207@fiu.edu<br>
 			 <strong>Office</strong>: EC 3160<br>
-       		</p>			
+       		</p>		
         </div>
-    </div>
+    </div>	
 {{< /section-container >}}
 
 
