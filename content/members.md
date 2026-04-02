@@ -94,12 +94,12 @@ description: "Learn about our team and collaborators across the globe."
                 title="Postgraduate Intern"
                 image="/images/company/elysa-barrera.jpeg"
             >}}
-		<p class="text-gray-700 text-lg">
+			<p class="text-gray-700 text-lg">
            	 <strong>Degree</strong>: BS in Behavioral Neuroscience, FIU (2025)<br>
            	 <strong>Focus Area</strong>: Functional neuroimaging and brain-behavior modeling in schizophrenia <br>
            	 <strong>Fun fact</strong>: I am a vinyl record collector and a dog mom.<br>
-		 <strong>Email</strong>: ebarr151@fiu.edu<br>
-		 <strong>Office</strong>: EC 3160<br>
+		 	 <strong>Email</strong>: ebarr151@fiu.edu<br>
+		 	 <strong>Office</strong>: EC 3160<br>
        		</p>
         </div>
     </div>
@@ -119,7 +119,7 @@ description: "Learn about our team and collaborators across the globe."
 		<p class="text-gray-700 text-lg">
            	 <strong>Degree Program</strong>: BS in Biomedical Engineering<br>
 		 <strong>Expected Graduation</strong>: Fall 2026<br>
-           	 <strong>Focus Area</strong>: Computational neuroimaging and biomedical data analysis.<br>
+           	 <strong>Focus Area</strong>: Precision functional MRI data modeling.<br>
            	 <strong>Fun fact</strong>: I enjoy learning new languages and collect superhero action figures.<br>
 		 <strong>Email</strong>: dmora207@fiu.edu<br>
 		 <strong>Office</strong>: EC 3160<br>
@@ -128,7 +128,7 @@ description: "Learn about our team and collaborators across the globe."
        		</p>
             {{< team-member 
                 name="Linda Natalia Bonilla"
-                title="Undergraduate ARCH student"
+                title="Undergraduate Student (ARCH Program)"
                 image="/images/company/linda-natalia.png"
             >}}
 		<p class="text-gray-700 text-lg">
