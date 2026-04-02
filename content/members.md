@@ -124,6 +124,19 @@ description: "Learn about our team and collaborators across the globe."
 			 <strong>Email</strong>: dmora207@fiu.edu<br>
 			 <strong>Office</strong>: EC 3160<br>
        		</p>
+            {{< team-member 
+                name="Diego Mora Ramos"
+                title="Undergraduate Intern"
+                image="/images/company/diego-mora.jpeg"
+            >}}
+			<p class="text-gray-700 text-lg">
+	           	 <strong>Degree Program</strong>: BS in Biomedical Engineering<br>
+			 <strong>Expected Graduation</strong>: Fall 2026<br>
+	           	 <strong>Focus Area</strong>: Computational neuroimaging and biomedical data analysis.<br>
+	           	 <strong>Fun fact</strong>: I enjoy learning new languages and collect superhero action figures.<br>
+			 <strong>Email</strong>: dmora207@fiu.edu<br>
+			 <strong>Office</strong>: EC 3160<br>
+       		</p>			
         </div>
     </div>
 {{< /section-container >}}
