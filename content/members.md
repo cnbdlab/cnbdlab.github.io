@@ -124,8 +124,6 @@ description: "Learn about our team and collaborators across the globe."
 		 <strong>Email</strong>: dmora207@fiu.edu<br>
 		 <strong>Office</strong>: EC 3160<br>
        		</p>
-        </div>
-		<div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             {{< team-member 
                 name="Linda Natalia Bonilla"
                 title="Undergraduate Volunteer (ARCH program)"
@@ -139,7 +137,6 @@ description: "Learn about our team and collaborators across the globe."
 		 <strong>Email</strong>: lboni029@fiu.edu<br>
 		 <strong>Office</strong>: EC 3160<br>
        		</p>
-        </div>
     </div>
 {{< /section-container >}}
 
