@@ -134,7 +134,7 @@ description: "Learn about our team and collaborators across the globe."
 		<p class="text-gray-700 text-lg">
            	 <strong>Degree Program</strong>: BS in Biomedical Engineering<br>
 		 <strong>Expected Graduation</strong>: Summer 2027<br>
-           	 <strong>Focus Area</strong>: Multimodal EEG-fMRI data analysis.<br>
+           	 <strong>Focus Area</strong>: Analysis of EEG microstates at rest.<br>
            	 <strong>Fun fact</strong>: Big fan of coffee and gym time.<br>
 		 <strong>Email</strong>: lboni029@fiu.edu<br>
 		 <strong>Office</strong>: EC 3160<br>
