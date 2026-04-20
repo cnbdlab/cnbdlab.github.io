@@ -65,20 +65,33 @@ description: "Learn about our team and collaborators across the globe."
         <h2 class="text-3xl font-bold text-center mb-12">Graduate Students</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             {{< team-member 
-                name="Recruiting"
+                name="Filled"
                 title="PhD Student"
                 image="/images/company/exec-1.svg"
             >}}
+		<p class="text-gray-700 text-lg">
+           	 <strong>Degree Program</strong>: PhD in Biomedical Engineering<br>
+           	 <strong>Focus Area</strong>: TBD.<br>
+           	 <strong>Fun fact</strong>: TBD.<br>
+		 <strong>Email</strong>: TBD@fiu.edu<br>
+		 <strong>Office</strong>: EC 3160<br>
+       		</p>
+		<p class="text-gray-700 text-lg">
+       		</p>
             {{< team-member 
-                name="Recruiting"
+                name="Filled"
                 title="PhD Student"
                 image="/images/company/exec-1.svg"
             >}}
-            {{< team-member 
-                name="Recruiting"
-                title="Master's Student"
-                image="/images/company/exec-1.svg"
-            >}}
+		<p class="text-gray-700 text-lg">
+           	 <strong>Degree Program</strong>: PhD in Biomedical Engineering<br>
+           	 <strong>Focus Area</strong>: TBD.<br>
+           	 <strong>Fun fact</strong>: TBD.<br>
+		 <strong>Email</strong>: TBD@fiu.edu<br>
+		 <strong>Office</strong>: EC 3160<br>
+       		</p>
+		<p class="text-gray-700 text-lg">
+       		</p>
         </div>
     </div>
 {{< /section-container >}}
@@ -96,7 +109,7 @@ description: "Learn about our team and collaborators across the globe."
             >}}
 			<p class="text-gray-700 text-lg">
            	 <strong>Degree</strong>: BS in Behavioral Neuroscience, FIU (2025)<br>
-           	 <strong>Focus Area</strong>: Functional neuroimaging and brain-behavior modeling in schizophrenia <br>
+           	 <strong>Focus Area</strong>: Brain-behavior modeling in schizophrenia using EEG.<br>
            	 <strong>Fun fact</strong>: I am a vinyl record collector and a dog mom.<br>
 		 	 <strong>Email</strong>: ebarr151@fiu.edu<br>
 		 	 <strong>Office</strong>: EC 3160<br>
@@ -187,6 +200,11 @@ description: "Learn about our team and collaborators across the globe."
                 image="/images/company/aaron-mattfeld.jpeg"
             >}}
             {{< team-member 
+                name="Patricia Junquera, MD"
+                title="Associate Professor, FIU/Baptist Health "
+                image="/images/company/patricia-junquera.jpg"
+            >}}
+            {{< team-member 
                 name="Mei Yi Ng, PhD"
                 title="Assistant Professor, Florida International University"
                 image="/images/company/mei-yi-ng.jpg"
@@ -212,19 +230,29 @@ description: "Learn about our team and collaborators across the globe."
 
 
 
+{{< section-container class="py-20" >}}
+    <div class="max-w-6xl mx-auto">
+        <h2 class="text-3xl font-bold text-center mb-12">Funding</h2>
+	<div class="flex justify-center items-center">
+		<img src="/images/company/whcoulter-logo.jpg" style="width: 160px; height: auto;">
+	</div>
+    </div>
+{{< /section-container >}}
 
+
+<!--
 {{< section-container class="py-20" >}}
     <div class="max-w-6xl mx-auto">
         <h2 class="text-3xl font-bold text-center mb-12">Funding</h2>
         <div class="grid grid-cols-2 md:grid-cols-4 gap-8 items-center">
-            {{< investor-logo name="Sequoia Capital" image="/images/company/investor-1.svg" >}}
-            {{< investor-logo name="Andreessen Horowitz" image="/images/company/investor-2.svg" >}}
-            {{< investor-logo name="Accel" image="/images/company/investor-3.svg" >}}
-            {{< investor-logo name="Benchmark" image="/images/company/investor-4.svg" >}}
+		{{< investor-logo name="Sequoia Capital" image="/images/company/investor-1.svg" >}}
+		{{< investor-logo name="Andreessen Horowitz" image="/images/company/investor-2.svg" >}}
+		{{< investor-logo name="Accel" image="/images/company/investor-3.svg" >}}
+		{{< investor-logo name="Benchmark" image="/images/company/investor-4.svg" >}}
         </div>
     </div>
 {{< /section-container >}}
-
+--!>
 
 
 
@@ -258,7 +286,7 @@ description: "Learn about our team and collaborators across the globe."
     <div class="max-w-6xl mx-auto">
         <div class="grid grid-cols-1 md:grid-cols-4 gap-8 text-center">
             {{< stat number="2026" label="Founded" >}}
-            {{< stat number="4" label="Team Members" >}}
+            {{< stat number="6" label="Team Members" >}}
             {{< stat number="0" label="Alumni" >}}
             {{< stat number="20+" label="Publications" >}}
         </div>
