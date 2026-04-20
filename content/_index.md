@@ -25,10 +25,10 @@ testimonials:
     avatar: "/images/testimonial-1.svg"
     quote: "We are excited to welcome two new volunteers, Elysa Barrera and Diego Mora Ramos, to our team!"
 #"The CNBD Lab is recruiting several undergraduate volunteers and Master's students to join us in Fall 2026. Please contact Dr. Lee directly."
-  - name: "Open PhD positions"
-    title: "Dec. 10, 2025"
+  - name: "PhD positions-FILLED"
+    title: "April 20, 2026"
     avatar: "/images/testimonial-1.svg"
-    quote: "The CNBD Lab is recruiting two PhD students to join us in Fall 2026. The priority deadline for internal fellowships is December 31, 2025, and the final application deadline is February 15, 2026."
+    quote: "Our recruitment for two PhD students beginning in Fall 2026 has now closed."
 ---
 
 {{< hero 

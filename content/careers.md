@@ -14,7 +14,7 @@ culture_section:
       description: "We currently do not have fundings to hire a new postdoc. We welcome postdoctoral candidates passionate about computational and clinical neuroscience. Please email Dr. Lee your CV and research statement to discuss fellowship applications."
     - icon: "🎯"
       title: "PhD Students"
-      description: "We are seeking two PhD students to start in Fall 2026 through the FIU BME PhD program."
+      description: "Recruitment closed: all PhD student positions have been filled."
     - icon: "📚"
       title: "Master's Students"
       description: "We currently do not have fundings to hire a new Master's student. We welcome Master's students who have been accepted for FIU BME or related programs. Please email Dr. Lee your CV and research statement if you are looking for a lab to join."

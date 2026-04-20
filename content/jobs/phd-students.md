@@ -1,5 +1,5 @@
 ---
-title: "PhD Students"
+title: "PhD Students - CLOSED"
 date: 2025-12-01
 description: "Join our lab as a PhD student to lead innovative research projects"
 location: "Miami, FL (In Person)"
