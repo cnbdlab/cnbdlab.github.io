@@ -1,6 +1,6 @@
 ---
 title: "PhD Students - CLOSED"
-date: 2025-12-01
+date: 2026-04-20
 description: "Join our lab as a PhD student to lead innovative research projects"
 location: "Miami, FL (In Person)"
 type: "Full-time"
