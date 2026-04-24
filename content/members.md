@@ -157,7 +157,7 @@ description: "Learn about our team and collaborators across the globe."
             {{< team-member 
                 name="Imani Douglas Woram"
                 title="Undergraduate Student (pre-CURE)"
-                image="/images/company/imani_HJ.png"
+                image="/images/company/Imani-douglas.png"
             >}}
 		<p class="text-gray-700 text-lg">
            	 <strong>Degree Program</strong>: BS in Biomedical Engineering<br>
