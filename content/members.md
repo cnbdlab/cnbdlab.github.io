@@ -141,7 +141,7 @@ description: "Learn about our team and collaborators across the globe."
        		</p>
             {{< team-member 
                 name="Linda Natalia Bonilla"
-                title="Undergraduate Student (ARCH Program)"
+                title="Undergraduate Student (pre-ARCH)"
                 image="/images/company/linda-natalia-bonilla.jpg"
             >}}
 		<p class="text-gray-700 text-lg">
@@ -150,6 +150,21 @@ description: "Learn about our team and collaborators across the globe."
            	 <strong>Focus Area</strong>: Analysis of EEG microstates at rest.<br>
            	 <strong>Fun fact</strong>: Big fan of coffee and gym time.<br>
 		 <strong>Email</strong>: lboni029@fiu.edu<br>
+		 <strong>Office</strong>: EC 3160<br>
+       		</p>
+		<p class="text-gray-700 text-lg">
+       		</p>
+            {{< team-member 
+                name="Imani Douglas Woram"
+                title="Undergraduate Student (pre-CURE)"
+                image="/images/company/imani_HJ.png"
+            >}}
+		<p class="text-gray-700 text-lg">
+           	 <strong>Degree Program</strong>: BS in Biomedical Engineering<br>
+		 <strong>Expected Graduation</strong>: Summer 2029<br>
+           	 <strong>Focus Area</strong>: (tentative) Functional brain network alterations in ADHD.<br>
+           	 <strong>Fun fact</strong>: Happiest when I'm running or at the gym!<br>
+		 <strong>Email</strong>: idoug006@fiu.edu<br>
 		 <strong>Office</strong>: EC 3160<br>
        		</p>
 		<p class="text-gray-700 text-lg">
@@ -286,7 +301,7 @@ description: "Learn about our team and collaborators across the globe."
     <div class="max-w-6xl mx-auto">
         <div class="grid grid-cols-1 md:grid-cols-4 gap-8 text-center">
             {{< stat number="2026" label="Founded" >}}
-            {{< stat number="6" label="Team Members" >}}
+            {{< stat number="7" label="Team Members" >}}
             {{< stat number="0" label="Alumni" >}}
             {{< stat number="20+" label="Publications" >}}
         </div>

@@ -110,7 +110,7 @@ description: "Learn about our past members and collaborators across the globe."
     <div class="max-w-6xl mx-auto">
         <div class="grid grid-cols-1 md:grid-cols-4 gap-8 text-center">
             {{< stat number="2026" label="Founded" >}}
-            {{< stat number="6" label="Team Members" >}}
+            {{< stat number="7" label="Team Members" >}}
             {{< stat number="0" label="Alumni" >}}
             {{< stat number="20+" label="Publications" >}}
         </div>
