@@ -22,9 +22,6 @@ culture_section:
       title: "Undergraduate Students"
       description: "Recruitment closed: all undergraduate volunteer positions have been filled."
 #"We are currently looking for two or three undergraduate students from diverse backgrounds including neuroscience, psychology, engineering and computer science."
-    - icon: "🌱"
-      title: "Pre-Application Apprenticeships"
-      description: "We welcome undergraduate students seeking admission to the CURE program through FIU Biomedical Engineering or the ARCH Thesis Program through the FIU Honors College. During the application preparation period, apprentices are typically granted limited access to laboratory resources and mentorship to support their project development and application process. Students who are accepted into their respective programs will be formally invited to join the CNBD Laboratory."
 
 positions_section:
   title: "Open Positions"

@@ -139,9 +139,38 @@ description: "Learn about our team and collaborators across the globe."
        		</p>
 		<p class="text-gray-700 text-lg">
        		</p>
+{{< team-member 
+                name="Imani Douglas Woram"
+                title="Undergraduate Volunteer"
+                image="/images/company/Imani-douglas.png"
+            >}}
+		<p class="text-gray-700 text-lg">
+           	 <strong>Degree Program</strong>: BS in Biomedical Engineering<br>
+		 <strong>Expected Graduation</strong>: Summer 2029<br>
+           	 <strong>Focus Area</strong>: Functional brain network alterations in ADHD.<br>
+           	 <strong>Fun fact</strong>: Happiest when I'm running or at the gym!<br>
+		 <strong>Email</strong>: idoug006@fiu.edu<br>
+		 <strong>Office</strong>: EC 3160<br>
+       		</p>
+		<p class="text-gray-700 text-lg">
+       		</p>
+        </div>
+    </div>
+{{< /section-container >}}
+
+
+
+
+{{< section-container class="py-20 bg-gray-50" >}}
+    <div class="max-w-6xl mx-auto">
+        <h2 class="text-3xl font-bold text-center mb-12">Pre-Application Apprenticeships</h2>
+<p>The apprenticeship serves as a preparatory pathway for undergraduate students seeking admission to the CURE program through FIU Biomedical Engineering or the ARCH Thesis Program through the FIU Honors College. These apprenticeships are not considered official memberships in the CNBD Laboratory. During the application preparation period, apprentices are typically granted limited access to laboratory resources and receive mentorship to support project development and application preparation. Students who are accepted into their respective programs will be formally invited to join the CNBD Laboratory and will receive full access to laboratory resources and opportunities. Admission to one of these programs is the primary pathway to continued involvement in the laboratory. However, exceptional apprentices may be considered for alternative research opportunities within the CNBD Laboratory based on performance, available positions, and laboratory needs.</p>
+<br>
+
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             {{< team-member 
                 name="Linda Natalia Bonilla"
-                title="Undergraduate Student (pre-ARCH)"
+                title="Undergraduate Student"
                 image="/images/company/linda-natalia-bonilla.jpg"
             >}}
 		<p class="text-gray-700 text-lg">
@@ -155,16 +184,31 @@ description: "Learn about our team and collaborators across the globe."
 		<p class="text-gray-700 text-lg">
        		</p>
             {{< team-member 
-                name="Imani Douglas Woram"
-                title="Undergraduate Student (pre-CURE)"
-                image="/images/company/Imani-douglas.png"
+                name="Cienna Shanklin"
+                title="Undergraduate Student"
+                image="/images/company/exec-3.svg"
+            >}}
+		<p class="text-gray-700 text-lg">
+           	 <strong>Degree Program</strong>: BS in Behavioral Neuroscience<br>
+		 <strong>Expected Graduation</strong>: Fall 2028<br>
+           	 <strong>Focus Area</strong>: TBD<br>
+           	 <strong>Fun fact</strong>: <br>
+		 <strong>Email</strong>: cshan019@fiu.edu<br>
+		 <strong>Office</strong>: EC 3160<br>
+       		</p>
+		<p class="text-gray-700 text-lg">
+       		</p>
+            {{< team-member 
+                name="Juan Salazar"
+                title="Undergraduate Student"
+                image="/images/company/exec-3.svg"
             >}}
 		<p class="text-gray-700 text-lg">
            	 <strong>Degree Program</strong>: BS in Biomedical Engineering<br>
-		 <strong>Expected Graduation</strong>: Summer 2029<br>
-           	 <strong>Focus Area</strong>: (tentative) Functional brain network alterations in ADHD.<br>
-           	 <strong>Fun fact</strong>: Happiest when I'm running or at the gym!<br>
-		 <strong>Email</strong>: idoug006@fiu.edu<br>
+		 <strong>Expected Graduation</strong>: Fall 2028<br>
+           	 <strong>Focus Area</strong>: TBD<br>
+           	 <strong>Fun fact</strong>: <br>
+		 <strong>Email</strong>: jsala168@fiu.edu<br>
 		 <strong>Office</strong>: EC 3160<br>
        		</p>
 		<p class="text-gray-700 text-lg">
@@ -180,7 +224,7 @@ description: "Learn about our team and collaborators across the globe."
         <h2 class="text-3xl font-bold text-center mb-12">Supporting Team</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             {{< team-member 
-                name="Recruiting"
+                name="Not Open"
                 title="Lab Manager"
                 image="/images/company/exec-2.svg"
             >}}
@@ -301,7 +345,7 @@ description: "Learn about our team and collaborators across the globe."
     <div class="max-w-6xl mx-auto">
         <div class="grid grid-cols-1 md:grid-cols-4 gap-8 text-center">
             {{< stat number="2026" label="Founded" >}}
-            {{< stat number="7" label="Team Members" >}}
+            {{< stat number="6" label="Team Members" >}}
             {{< stat number="0" label="Alumni" >}}
             {{< stat number="20+" label="Publications" >}}
         </div>
