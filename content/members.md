@@ -164,7 +164,7 @@ description: "Learn about our team and collaborators across the globe."
 {{< section-container class="py-20 bg-gray-50" >}}
     <div class="max-w-6xl mx-auto">
         <h2 class="text-3xl font-bold text-center mb-12">Pre-Application Apprenticeships</h2>
-<p>The apprenticeship serves as a preparatory pathway for undergraduate students seeking admission to the CURE program through FIU Biomedical Engineering or the ARCH Thesis Program through the FIU Honors College. These apprenticeships are not considered official memberships in the CNBD Laboratory. During application preparation, apprentices receive mentorship and temporary laboratory access to develop their projects. Admission to either program is the primary pathway to a formal laboratory invitation and continued resource access.</p>
+<p>The apprenticeship serves as a preparatory pathway for undergraduate students seeking admission to the CURE program through FIU Biomedical Engineering or the ARCH Thesis Program through the FIU Honors College. During application preparation, apprentices receive mentorship and temporary laboratory access to develop their projects. Admission to either program is the primary pathway to a formal laboratory invitation and continued resource access.</p>
 <br>
 
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
