@@ -62,7 +62,7 @@ description: "Learn about our team and collaborators across the globe."
 
 {{< section-container class="py-20 bg-gray-50" >}}
     <div class="max-w-6xl mx-auto">
-        <h2 class="text-3xl font-bold text-center mb-12">Graduate Students</h2>
+        <h2 class="text-3xl font-bold text-center mb-12">PhD Students</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             {{< team-member 
                 name="Filled"
@@ -100,11 +100,35 @@ description: "Learn about our team and collaborators across the globe."
 
 {{< section-container class="py-20 bg-gray-50" >}}
     <div class="max-w-6xl mx-auto">
-        <h2 class="text-3xl font-bold text-center mb-12">Postgraduate Researchers</h2>
+        <h2 class="text-3xl font-bold text-center mb-12">Master Students</h2>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+            {{< team-member 
+                name="Open"
+                title="Master Student"
+                image="/images/company/exec-1.svg"
+            >}}
+		<p class="text-gray-700 text-lg">
+           	 <strong>Degree Program</strong>: MS in Biomedical Engineering<br>
+           	 <strong>Focus Area</strong>: TBD.<br>
+           	 <strong>Fun fact</strong>: TBD.<br>
+		 <strong>Email</strong>: TBD@fiu.edu<br>
+		 <strong>Office</strong>: EC 3160<br>
+       		</p>
+		<p class="text-gray-700 text-lg">
+       		</p>
+        </div>
+    </div>
+{{< /section-container >}}
+
+
+
+{{< section-container class="py-20 bg-gray-50" >}}
+    <div class="max-w-6xl mx-auto">
+        <h2 class="text-3xl font-bold text-center mb-12">Post-Baccalaureate Researchers</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             {{< team-member 
                 name="Elysa Barrera"
-                title="Postgraduate Intern"
+                title="Post-Baccalaureate Intern"
                 image="/images/company/elysa-barrera.jpeg"
             >}}
 			<p class="text-gray-700 text-lg">
@@ -122,7 +146,7 @@ description: "Learn about our team and collaborators across the globe."
 
 {{< section-container class="py-20 bg-gray-50" >}}
     <div class="max-w-6xl mx-auto">
-        <h2 class="text-3xl font-bold text-center mb-12">Undergraduate Students</h2>
+        <h2 class="text-3xl font-bold text-center mb-12">Undergraduate Researchers</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             {{< team-member 
                 name="Diego Mora Ramos"
@@ -163,8 +187,8 @@ description: "Learn about our team and collaborators across the globe."
 
 {{< section-container class="py-20 bg-gray-50" >}}
     <div class="max-w-6xl mx-auto">
-        <h2 class="text-3xl font-bold text-center mb-12">Apprenticeships</h2>
-<p>The apprenticeship serves as a preparatory pathway for undergraduate students seeking admission to the CURE program through FIU Biomedical Engineering or the ARCH Thesis Program through the FIU Honors College. During application preparation, apprentices receive mentorship and temporary laboratory access to develop their projects. Admission to either program is the primary pathway to a formal laboratory invitation and continued resource access.</p>
+        <h2 class="text-3xl font-bold text-center mb-12">Research Apprentices</h2>
+<p>The non-member apprenticeship serves as a preparatory pathway for undergraduate students seeking admission to the CURE program through FIU Biomedical Engineering or the ARCH Thesis Program through the FIU Honors College. During application preparation, apprentices receive mentorship and temporary laboratory access to develop their projects. Admission to either program is the primary pathway to a formal laboratory invitation and continued resource access.</p>
 <br>
 
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
