@@ -141,6 +141,10 @@ Lee K, Ye JC. [Statistical parametric mapping of fMRI data using sparse dictiona
 <br><br>
 ## Conference Abstracts (2026-present)
 
+Arielle Dascal, Édouard Delaire, Alexander Ngo, Thaera Arafat, Judy Chen, Ella Sahlas, Chifaou Abdallah, Mahdi Mobarak-Abadi, Jessica Royer, Raul Rodriguez-Cruces, Neda Bernasconi, Andrea Bernasconi, Raluca Pana, <b>Kangjoo Lee</b>, Boris Bernhardt, Christophe Grova, Assessing the Functional-Structural Reorganization of Connector Hubs in Temporal Lobe Epilepsy, Organization for Human Brain Mapping (OHBM), June 2026 (Poster session)
+
+Mahdi Mobarak-Abadi, Arielle Dascal, <b>Kangjoo Lee</b>, Habib Benali, Jean-Marc Lina, Christophe Grova, Multiscale Functional Architecture of Brain Hubs Revealed by Graph Theory and Sparse Decomposition, Organization for Human Brain Mapping (OHBM), June 2026 (Poster session)
+
 
 
 
