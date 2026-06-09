@@ -42,7 +42,7 @@ paginatePath = "page"
       url = "mailto:kalee@fiu.edu"
     [params.cta.secondary_button]
       text = "BME PhD Program"
-      url = "https://bme.fiu.edu/academics/degrees/"
+      url = "https://cec.fiu.edu/about/schools-departments/biomedical-engineering/"
   
   # Social Media Links
   [params.social]
