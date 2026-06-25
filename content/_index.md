@@ -25,10 +25,10 @@ testimonials:
     avatar: "/images/testimonial-1.svg"
     quote: "We are excited to welcome our new volunteer, Imani Douglas Woram, to our team!"
 #"The CNBD Lab is recruiting several undergraduate volunteers and Master's students to join us in Fall 2026. Please contact Dr. Lee directly."
-  - name: "PhD positions-FILLED"
-    title: "April 20, 2026"
+  - name: "Welcoming New MS student!"
+    title: "June 24, 2026"
     avatar: "/images/testimonial-1.svg"
-    quote: "Our recruitment for two PhD students beginning in Fall 2026 has now closed."
+    quote: "We are excited to welcome our new volunteer, Divina Campbell, to our team!"
 ---
 
 {{< hero 

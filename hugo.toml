@@ -222,6 +222,10 @@ paginatePath = "page"
   [[menu.main]]
     name = "Join Us"
     url = "/careers"
+    weight = 7
+  [[menu.main]]
+    name = "Seminar"
+    url = "/seminar"
     weight = 6
 #  [[menu.main]]
 #    name = "Research"

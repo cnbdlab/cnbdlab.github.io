@@ -65,29 +65,29 @@ description: "Learn about our team and collaborators across the globe."
         <h2 class="text-3xl font-bold text-center mb-12">PhD Students</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             {{< team-member 
-                name="Filled"
-                title="PhD Student"
+                name="Akshay Singh"
+                title="PhD Student (Fall 2026 start)"
                 image="/images/company/exec-1.svg"
             >}}
 		<p class="text-gray-700 text-lg">
            	 <strong>Degree Program</strong>: PhD in Biomedical Engineering<br>
-           	 <strong>Focus Area</strong>: TBD.<br>
+           	 <strong>Focus Area</strong>: Longitudinal deep phenotyping of schizophrenia using fMRI.<br>
            	 <strong>Fun fact</strong>: TBD.<br>
-		 <strong>Email</strong>: TBD@fiu.edu<br>
+		 <strong>Email</strong>: asing217@fiu.edu<br>
 		 <strong>Office</strong>: EC 3160<br>
        		</p>
 		<p class="text-gray-700 text-lg">
        		</p>
             {{< team-member 
-                name="Filled"
-                title="PhD Student"
+                name="Prabir Kumar Das"
+                title="PhD Student (Fall 2026 start)"
                 image="/images/company/exec-1.svg"
             >}}
 		<p class="text-gray-700 text-lg">
            	 <strong>Degree Program</strong>: PhD in Biomedical Engineering<br>
-           	 <strong>Focus Area</strong>: TBD.<br>
+           	 <strong>Focus Area</strong>: Computational and AI-driven modeling of EEG and fMRI in epilepsy<br>
            	 <strong>Fun fact</strong>: TBD.<br>
-		 <strong>Email</strong>: TBD@fiu.edu<br>
+		 <strong>Email</strong>: pdas004@fiu.edu<br>
 		 <strong>Office</strong>: EC 3160<br>
        		</p>
 		<p class="text-gray-700 text-lg">
@@ -103,15 +103,15 @@ description: "Learn about our team and collaborators across the globe."
         <h2 class="text-3xl font-bold text-center mb-12">Master Students</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             {{< team-member 
-                name="Open"
+                name="Divina Campbell"
                 title="Master Student"
                 image="/images/company/exec-1.svg"
             >}}
 		<p class="text-gray-700 text-lg">
            	 <strong>Degree Program</strong>: MS in Biomedical Engineering<br>
-           	 <strong>Focus Area</strong>: TBD.<br>
+           	 <strong>Focus Area</strong>: Thalamo-cortical functional connectivity in the human brain.<br>
            	 <strong>Fun fact</strong>: TBD.<br>
-		 <strong>Email</strong>: TBD@fiu.edu<br>
+		 <strong>Email</strong>: dcamp130@fiu.edu<br>
 		 <strong>Office</strong>: EC 3160<br>
        		</p>
 		<p class="text-gray-700 text-lg">
@@ -200,7 +200,7 @@ description: "Learn about our team and collaborators across the globe."
 		<p class="text-gray-700 text-lg">
            	 <strong>Degree Program</strong>: BS in Biomedical Engineering<br>
 		 <strong>Expected Graduation</strong>: Summer 2027<br>
-           	 <strong>Focus Area</strong>: Analysis of EEG microstates at rest.<br>
+           	 <strong>Focus Area</strong>: Analysis of EEG microstates.<br>
            	 <strong>Fun fact</strong>: Big fan of coffee and gym time.<br>
 		 <strong>Email</strong>: lboni029@fiu.edu<br>
 		 <strong>Office</strong>: EC 3160<br>
@@ -242,7 +242,7 @@ description: "Learn about our team and collaborators across the globe."
 {{< /section-container >}}
 
 
-
+<!--
 {{< section-container class="py-20 bg-gray-50" >}}
     <div class="max-w-6xl mx-auto">
         <h2 class="text-3xl font-bold text-center mb-12">Supporting Team</h2>
@@ -255,7 +255,7 @@ description: "Learn about our team and collaborators across the globe."
         </div>
     </div>
 {{< /section-container >}}
-
+--!>
 
 
 {{< section-container class="py-20 bg-gray-50" >}}
