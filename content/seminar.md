@@ -1,7 +1,7 @@
 ---
-title: "About Our Team"
+title: "Seminar"
 layout: "company"
-description: "Learn about our team and collaborators across the globe."
+description: "Guest speakers for our seminar series."
 ---
 
 {{< section-container class="bg-gradient-to-b from-blue-50 via-blue-50 to-white pt-20 pb-32" >}}
@@ -41,12 +41,12 @@ description: "Learn about our team and collaborators across the globe."
             >}}
             {{< team-member 
                 name="Arielle Dascal"
-                title="06.10.2026"
+                title="06.10.2026 (virtual)"
                 image="/images/guests/INVITED_TALK_Arielle_Dascal_06.10.2026.jpg"
             >}}
             {{< team-member 
                 name="Rasheda Arman Chowdury, PhD"
-                title="06.24.2026"
+                title="06.24.2026 (virtual)"
                 image="/images/guests/INVITED_TALK_Rasheda_Arman_Chowdhury_06.24.2026.jpg"
             >}}
         </div>

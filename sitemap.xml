@@ -2,41 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2026-06-24T23:23:51-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/bowling-may2026/</loc>
+    <lastmod>2026-06-24T23:23:51-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-06-24T23:23:51-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cnbd/</loc>
+    <lastmod>2026-06-24T23:23:51-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/lablife/</loc>
+    <lastmod>2026-06-24T23:23:51-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/social/</loc>
+    <lastmod>2026-06-24T23:23:51-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/social/</loc>
+    <lastmod>2026-06-24T23:23:51-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-06-24T23:23:51-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/teamwork/</loc>
+    <lastmod>2026-06-24T23:23:51-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/jobs/</loc>
     <lastmod>2026-04-20T19:58:51-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/jobs/phd-students/</loc>
     <lastmod>2026-04-20T19:58:51-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2026-03-05T10:46:28-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/bmt/</loc>
-    <lastmod>2026-03-05T10:46:28-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-03-05T10:46:28-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/events/</loc>
-    <lastmod>2026-03-05T10:46:28-05:00</lastmod>
+    <lastmod>2026-06-24T23:23:51-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/fiu/</loc>
-    <lastmod>2026-03-05T10:46:28-05:00</lastmod>
+    <lastmod>2026-06-24T23:23:51-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ohbm/</loc>
-    <lastmod>2026-03-05T10:46:28-05:00</lastmod>
+    <lastmod>2026-06-24T23:23:51-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/outreach/</loc>
-    <lastmod>2026-03-05T10:46:28-05:00</lastmod>
+    <lastmod>2026-06-24T23:23:51-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/recruitment/</loc>
-    <lastmod>2026-03-05T10:46:28-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-03-05T10:46:28-05:00</lastmod>
+    <lastmod>2026-06-24T23:23:51-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/ohbm-bmt2026-recruitment/</loc>
-    <lastmod>2026-03-05T10:46:28-05:00</lastmod>
+    <lastmod>2026-06-24T23:23:51-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/jobs/undergrad-volunteer/</loc>
     <lastmod>2026-01-29T12:01:39-05:00</lastmod>
@@ -45,19 +60,13 @@
     <lastmod>2026-01-07T10:41:14-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/bme/</loc>
-    <lastmod>2025-12-31T12:57:39-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/cmbd/</loc>
-    <lastmod>2025-12-31T12:57:39-05:00</lastmod>
+    <lastmod>2026-06-24T23:23:51-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/phd/</loc>
-    <lastmod>2025-12-31T12:57:39-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/bowling-may2026/</loc>
-    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-24T23:23:51-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/cnbd-intro/</loc>
-    <lastmod>2025-12-31T12:57:39-05:00</lastmod>
+    <lastmod>2026-06-24T23:23:51-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/jobs/lab-manager/</loc>
     <lastmod>2026-01-12T19:58:17-05:00</lastmod>
