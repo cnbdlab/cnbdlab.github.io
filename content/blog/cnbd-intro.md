@@ -3,8 +3,8 @@ title: "Welcome to the CNBD Lab"
 date: 2025-12-31
 author: "Kangjoo Lee"
 description: Introducing the Computational Neuroimaging of Brain Disorders (CNBD) Lab at FIU Biomedical Engineering."
-categories: ["events","recruitment"]
-tags: ["fiu", "bme", "cmbd", "phd"]
+categories: ["recruitment"]
+tags: ["fiu", "bme", "cnbd", "phd"]
 featured_image: "/images/blog/blog-4.jpg"
 ---
 

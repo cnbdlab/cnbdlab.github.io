@@ -3,7 +3,7 @@ title: "Volunteer Needed for Neuroscience Outreach Event in May"
 date: 2026-02-26
 author: "Kangjoo Lee"
 description: We are seeking a team of young neuroscientists to lead a 1-hour neuroscience outreach session for elementary/middle school students in Miami."
-categories: ["events","recruitment"]
+categories: ["recruitment"]
 tags: ["fiu", "ohbm", "bmt", "outreach"]
 featured_image: "/images/blog/BMT_gemini2.png"
 ---
