@@ -71,7 +71,7 @@ description: "Learn about our team and collaborators across the globe."
             >}}
 		<p class="text-gray-700 text-lg">
            	 <strong>Degree Program</strong>: PhD in Biomedical Engineering<br>
-           	 <strong>Focus Area</strong>: Longitudinal deep phenotyping of schizophrenia using fMRI.<br>
+           	 <strong>Focus Area</strong>: Precision fMRI in schizophrenia.<br>
            	 <strong>Fun fact</strong>: TBD.<br>
 		 <strong>Email</strong>: asing217@fiu.edu<br>
 		 <strong>Office</strong>: EC 3160<br>
@@ -85,7 +85,7 @@ description: "Learn about our team and collaborators across the globe."
             >}}
 		<p class="text-gray-700 text-lg">
            	 <strong>Degree Program</strong>: PhD in Biomedical Engineering<br>
-           	 <strong>Focus Area</strong>: Computational and AI-driven modeling of EEG and fMRI in epilepsy<br>
+           	 <strong>Focus Area</strong>: Computational modeling of EEG and fMRI in epilepsy<br>
            	 <strong>Fun fact</strong>: TBD.<br>
 		 <strong>Email</strong>: pdas004@fiu.edu<br>
 		 <strong>Office</strong>: EC 3160<br>
@@ -109,7 +109,7 @@ description: "Learn about our team and collaborators across the globe."
             >}}
 		<p class="text-gray-700 text-lg">
            	 <strong>Degree Program</strong>: MS in Biomedical Engineering<br>
-           	 <strong>Focus Area</strong>: Thalamo-cortical functional connectivity in the human brain.<br>
+           	 <strong>Focus Area</strong>: Thalamo-cortical functional connectivity.<br>
            	 <strong>Fun fact</strong>: TBD.<br>
 		 <strong>Email</strong>: dcamp130@fiu.edu<br>
 		 <strong>Office</strong>: EC 3160<br>
