@@ -67,12 +67,12 @@ description: "Learn about our team and collaborators across the globe."
             {{< team-member 
                 name="Akshay Singh"
                 title="PhD Student (Fall 2026 start)"
-                image="/images/company/exec-1.svg"
+                image="/images/company/akshay-singh.png"
             >}}
 		<p class="text-gray-700 text-lg">
            	 <strong>Degree Program</strong>: PhD in Biomedical Engineering<br>
            	 <strong>Focus Area</strong>: Precision fMRI in schizophrenia.<br>
-           	 <strong>Fun fact</strong>: TBD.<br>
+           	 <strong>Fun fact</strong>: I enjoy gaming and a good cup of coffee.<br>
 		 <strong>Email</strong>: asing217@fiu.edu<br>
 		 <strong>Office</strong>: EC 3160<br>
        		</p>

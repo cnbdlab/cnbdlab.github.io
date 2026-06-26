@@ -76,9 +76,6 @@
     <loc>http://localhost:1313/members/</loc>
     <lastmod>2026-06-24T22:17:20-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/seminar/</loc>
-    <lastmod>2026-06-24T20:44:59-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/alumni/</loc>
     <lastmod>2026-06-03T19:42:06-04:00</lastmod>
   </url><url>
@@ -107,6 +104,9 @@
   </url><url>
     <loc>http://localhost:1313/research/</loc>
     <lastmod>2026-01-04T17:02:10-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/seminar/</loc>
+    <lastmod>2026-06-25T00:16:27-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/software/</loc>
     <lastmod>2025-12-31T12:57:39-05:00</lastmod>
