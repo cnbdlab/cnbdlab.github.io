@@ -28,7 +28,7 @@ testimonials:
   - name: "Welcoming New MS student!"
     title: "June 24, 2026"
     avatar: "/images/testimonial-1.svg"
-    quote: "We are excited to welcome our new volunteer, Divina Campbell, to our team!"
+    quote: "We are excited to welcome our new Master student, Divina Campbell, to our team!"
 ---
 
 {{< hero 
