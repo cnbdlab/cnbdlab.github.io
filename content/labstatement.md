@@ -18,7 +18,7 @@ features:
 #  image: "/images/feature-1.svg"
 ---
 
-Version – Jan 5, 2026
+Version – June 26, 2026
 
 ## Lab Culture
 1.	We strive to create a welcoming and inclusive environment. All lab members are expected to be kind, respectful, and supportive.
@@ -38,8 +38,12 @@ Version – Jan 5, 2026
 3.	Attend meetings during normal work hours when possible; exceptions can be accommodated.
 4.	You are not expected to work or respond to messages during evenings, weekends, or holidays. Messages outside your regular work hours do not require immediate response. Near external deadlines, I may request assistance outside regular hours but you may decline.
 
-## Undergraduate Volunteers
-1.	Undergraduate volunteers are expected to spend 8-10 hours per week physically in the lab to ensure engagement with ongoing projects and hands-on research experience. Hours are flexible, but consistent attendance is important for learning and project progress.
+## Graduate Students (Master's and PhD Students)
+1.	Graduate students are expected to work in the lab during regular business hours (typically 9:00 a.m.–5:00 p.m., Monday–Friday). While work hours are flexible, maintaining a consistent on-site presence is important for effective training, collaboration, and steady progress on research projects.
+2.	Weekly 1-on-1 meetings with Kangjoo are expected to review progress and receive guidance.
+
+## Undergraduate Researchers
+1.	Undergraduate researchers, including volunteers, are expected to spend 8-10 hours per week physically in the lab to ensure engagement with ongoing projects and hands-on research experience. Hours are flexible, but consistent attendance is important for learning and project progress.
 2.	Weekly 1-on-1 meetings with Kangjoo or their project leader (typically PhD students or postdoc) are expected to review progress and receive guidance.
 
 ## Holidays
