@@ -105,12 +105,12 @@ description: "Learn about our team and collaborators across the globe."
             {{< team-member 
                 name="Divina Campbell"
                 title="Master Student"
-                image="/images/company/exec-1.svg"
+                image="/images/company/divina-campbell.png"
             >}}
 		<p class="text-gray-700 text-lg">
            	 <strong>Degree Program</strong>: MS in Biomedical Engineering<br>
            	 <strong>Focus Area</strong>: Thalamo-cortical functional connectivity.<br>
-           	 <strong>Fun fact</strong>: TBD.<br>
+           	 <strong>Fun fact</strong>: I love to cats, books and I am a collector of many trinkets.<br>
 		 <strong>Email</strong>: dcamp130@fiu.edu<br>
 		 <strong>Office</strong>: EC 3160<br>
        		</p>
