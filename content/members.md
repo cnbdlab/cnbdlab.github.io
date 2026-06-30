@@ -222,21 +222,6 @@ description: "Learn about our team and collaborators across the globe."
        		</p>
 		<p class="text-gray-700 text-lg">
        		</p>
-            {{< team-member 
-                name="Juan Salazar"
-                title="Undergraduate Student"
-                image="/images/company/exec-3.svg"
-            >}}
-		<p class="text-gray-700 text-lg">
-           	 <strong>Degree Program</strong>: BS in Biomedical Engineering<br>
-		 <strong>Expected Graduation</strong>: Fall 2028<br>
-           	 <strong>Focus Area</strong>: TBD<br>
-           	 <strong>Fun fact</strong>: <br>
-		 <strong>Email</strong>: jsala168@fiu.edu<br>
-		 <strong>Office</strong>: EC 3160<br>
-       		</p>
-		<p class="text-gray-700 text-lg">
-       		</p>
         </div>
     </div>
 {{< /section-container >}}
