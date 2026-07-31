@@ -20,7 +20,7 @@ testimonials:
     title: "Mar. 16, 2026"
     avatar: "/images/testimonial-1.svg"
     quote: "We welcome undergraduate BME students to join our lab through the ARCH Program (Honors College) or the Coulter Undergraduate Research Excellence (CURE) Program for entry-level undergraduates."
-  - name: "Dr. Lee to Receive Prestigious BBRF Young Investigator Grant"
+  - name: "Dr. Lee to Receive BBRF Young Investigator Grant"
     title: "July 30, 2026"
     avatar: "/images/testimonial-1.svg"
     quote: "Dr. Lee has been selected to receive the 2026 BBRF Young Investigator Grant (project period: January 15, 2027–January 14, 2029), a highly competitive award supporting outstanding early-career investigators in brain and behavioral research. Congratulations!"

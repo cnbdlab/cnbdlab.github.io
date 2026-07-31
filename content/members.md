@@ -217,7 +217,7 @@ description: "Learn about our team and collaborators across the globe."
 		<p class="text-gray-700 text-lg">
            	 <strong>Degree Program</strong>: BS in Biomedical Engineering<br>
 		 <strong>Expected Graduation</strong>: Summer 2027<br>
-           	 <strong>Focus Area</strong>: Analysis of EEG microstates.<br>
+           	 <strong>Focus Area</strong>: EEG analysis in Alzheimer's disease.<br>
            	 <strong>Fun fact</strong>: Big fan of coffee and gym time.<br>
 		 <strong>Email</strong>: lboni029@fiu.edu<br>
 		 <strong>Office</strong>: EC 3160<br>
@@ -232,7 +232,7 @@ description: "Learn about our team and collaborators across the globe."
 		<p class="text-gray-700 text-lg">
            	 <strong>Degree Program</strong>: BS in Behavioral Neuroscience<br>
 		 <strong>Expected Graduation</strong>: Fall 2028<br>
-           	 <strong>Focus Area</strong>: fMRI analysis in Schizophrenia and Bipolar Disorder.<br>
+           	 <strong>Focus Area</strong>: Multivariate pattern analysis of fMRI in Schizophrenia.<br>
            	 <strong>Fun fact</strong>: I love travelling and learning about different cultures!<br>
 		 <strong>Email</strong>: cshan019@fiu.edu<br>
 		 <strong>Office</strong>: EC 3160<br>
