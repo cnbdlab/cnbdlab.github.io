@@ -20,15 +20,14 @@ testimonials:
     title: "Mar. 16, 2026"
     avatar: "/images/testimonial-1.svg"
     quote: "We welcome undergraduate BME students to join our lab through the ARCH Program (Honors College) or the Coulter Undergraduate Research Excellence (CURE) Program for entry-level undergraduates."
-  - name: "Welcoming New Volunteer"
-    title: "Jun. 03, 2026"
+  - name: "Dr. Lee to Receive Prestigious BBRF Young Investigator Grant"
+    title: "July 30, 2026"
     avatar: "/images/testimonial-1.svg"
-    quote: "We are excited to welcome our new volunteer, Imani Douglas Woram, to our team!"
-#"The CNBD Lab is recruiting several undergraduate volunteers and Master's students to join us in Fall 2026. Please contact Dr. Lee directly."
-  - name: "Welcoming New MS student!"
-    title: "June 24, 2026"
+    quote: "Dr. Lee has been selected to receive the 2026 BBRF Young Investigator Grant (project period: January 15, 2027–January 14, 2029), a highly competitive award supporting outstanding early-career investigators in brain and behavioral research. Congratulations!"
+  - name: "Welcoming New MS students!"
+    title: "July 31, 2026"
     avatar: "/images/testimonial-1.svg"
-    quote: "We are excited to welcome our new Master student, Divina Campbell, to our team!"
+    quote: "We are excited to welcome our new Master students, Divina Campbell and Jessica Rompas, to our team!"
 ---
 
 {{< hero 

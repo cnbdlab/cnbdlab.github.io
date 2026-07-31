@@ -109,9 +109,26 @@ description: "Learn about our team and collaborators across the globe."
             >}}
 		<p class="text-gray-700 text-lg">
            	 <strong>Degree Program</strong>: MS in Biomedical Engineering<br>
-           	 <strong>Focus Area</strong>: Thalamo-cortical functional connectivity.<br>
+           	 <strong>Focus Area</strong>: Thalamo-cortical fMRI connectivity.<br>
            	 <strong>Fun fact</strong>: I love to cats, books and I am a collector of many trinkets.<br>
 		 <strong>Email</strong>: dcamp130@fiu.edu<br>
+		 <strong>Office</strong>: EC 3160<br>
+       		</p>
+		<p class="text-gray-700 text-lg">
+       		</p>
+        </div>
+	<br>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+            {{< team-member 
+                name="Jessica Rompas"
+                title="Master Student"
+                image="/images/company/exec-1.svg"
+            >}}
+		<p class="text-gray-700 text-lg">
+           	 <strong>Degree Program</strong>: MS in Biomedical Engineering<br>
+           	 <strong>Focus Area</strong>: Multiscale fMRI connectivity feature selection.<br>
+           	 <strong>Fun fact</strong>: TBD.<br>
+		 <strong>Email</strong>: jromp001@fiu.edu<br>
 		 <strong>Office</strong>: EC 3160<br>
        		</p>
 		<p class="text-gray-700 text-lg">
