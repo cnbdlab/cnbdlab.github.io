@@ -110,7 +110,7 @@ description: "Learn about our team and collaborators across the globe."
 		<p class="text-gray-700 text-lg">
            	 <strong>Degree Program</strong>: MS in Biomedical Engineering<br>
            	 <strong>Focus Area</strong>: Thalamo-cortical fMRI connectivity.<br>
-           	 <strong>Fun fact</strong>: I love to cats, books and I am a collector of many trinkets.<br>
+           	 <strong>Fun fact</strong>: I love cats, books and I am a collector of many trinkets.<br>
 		 <strong>Email</strong>: dcamp130@fiu.edu<br>
 		 <strong>Office</strong>: EC 3160<br>
        		</p>
@@ -152,7 +152,7 @@ description: "Learn about our team and collaborators across the globe."
            	 <strong>Degree</strong>: BS in Behavioral Neuroscience, FIU (2025)<br>
            	 <strong>Focus Area</strong>: Brain-behavior modeling in schizophrenia using EEG.<br>
            	 <strong>Fun fact</strong>: I am a vinyl record collector and a dog mom.<br>
-		 	 <strong>Email</strong>: ebarr151@fiu.edu<br>
+		 	 <strong>Email</strong>: elbarrer@fiu.edu<br>
 		 	 <strong>Office</strong>: EC 3160<br>
        		</p>
         </div>
