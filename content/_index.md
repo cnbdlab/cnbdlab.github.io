@@ -27,7 +27,11 @@ testimonials:
   - name: "Welcoming New MS students!"
     title: "July 31, 2026"
     avatar: "/images/testimonial-1.svg"
-    quote: "We are excited to welcome our new Master students, Divina Campbell and Jessica Rompas, to our team!"
+    quote: "We are excited to welcome our new Master students (Biomedical Engineering), Divina Campbell and Jessica Rompas, to our team!"
+  - name: "Cienna Shanklin — ARCH Program Student"
+    title: "August 9, 2026"
+    avatar: "/images/testimonial-1.svg"
+    quote: "Cienna's proposal for the Honors College ARCH Program has been accepted to start in Fall 2026. Through the ARCH Program, Cienna has also officially joined the CNBD Lab. Congratulations!"
 ---
 
 {{< hero 

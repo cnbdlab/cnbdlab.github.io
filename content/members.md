@@ -66,7 +66,7 @@ description: "Learn about our team and collaborators across the globe."
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             {{< team-member 
                 name="Akshay Singh"
-                title="PhD Student (Fall 2026 start)"
+                title="PhD Student"
                 image="/images/company/akshay-singh.png"
             >}}
 		<p class="text-gray-700 text-lg">
@@ -78,7 +78,7 @@ description: "Learn about our team and collaborators across the globe."
        		</p>
 		<p class="text-gray-700 text-lg">
        		</p>
-            {{< team-member 
+<!--            {{< team-member 
                 name="Prabir Kumar Das"
                 title="PhD Student (Fall 2026 start)"
                 image="/images/company/exec-1.svg"
@@ -92,6 +92,7 @@ description: "Learn about our team and collaborators across the globe."
        		</p>
 		<p class="text-gray-700 text-lg">
        		</p>
+-->
         </div>
     </div>
 {{< /section-container >}}
@@ -173,14 +174,29 @@ description: "Learn about our team and collaborators across the globe."
 		<p class="text-gray-700 text-lg">
            	 <strong>Degree Program</strong>: BS in Biomedical Engineering<br>
 		 <strong>Expected Graduation</strong>: Fall 2026<br>
-           	 <strong>Focus Area</strong>: Precision functional MRI data modeling.<br>
+           	 <strong>Focus Area</strong>: Precision fMRI modeling at rest and during tasks.<br>
            	 <strong>Fun fact</strong>: I enjoy learning new languages and collect superhero action figures.<br>
 		 <strong>Email</strong>: dmora207@fiu.edu<br>
 		 <strong>Office</strong>: EC 3160<br>
        		</p>
 		<p class="text-gray-700 text-lg">
        		</p>
-{{< team-member 
+           {{< team-member 
+                name="Cienna Shanklin"
+                title="ARCH Undergraduate Student"
+                image="/images/company/cienna-shanklin.jpg"
+            >}}
+		<p class="text-gray-700 text-lg">
+           	 <strong>Degree Program</strong>: BS in Behavioral Neuroscience<br>
+		 <strong>Expected Graduation</strong>: Fall 2028<br>
+           	 <strong>Focus Area</strong>: Multivariate pattern analysis of fMRI in Schizophrenia and Bipolar Disorder.<br>
+           	 <strong>Fun fact</strong>: I love travelling and learning about different cultures!<br>
+		 <strong>Email</strong>: cshan019@fiu.edu<br>
+		 <strong>Office</strong>: EC 3160<br>
+       		</p>
+		<p class="text-gray-700 text-lg">
+       		</p>
+            {{< team-member 
                 name="Imani Douglas Woram"
                 title="Undergraduate Volunteer"
                 image="/images/company/Imani-douglas.png"
@@ -220,21 +236,6 @@ description: "Learn about our team and collaborators across the globe."
            	 <strong>Focus Area</strong>: EEG analysis in Alzheimer's disease.<br>
            	 <strong>Fun fact</strong>: Big fan of coffee and gym time.<br>
 		 <strong>Email</strong>: lboni029@fiu.edu<br>
-		 <strong>Office</strong>: EC 3160<br>
-       		</p>
-		<p class="text-gray-700 text-lg">
-       		</p>
-            {{< team-member 
-                name="Cienna Shanklin"
-                title="Undergraduate Student"
-                image="/images/company/cienna-shanklin.jpg"
-            >}}
-		<p class="text-gray-700 text-lg">
-           	 <strong>Degree Program</strong>: BS in Behavioral Neuroscience<br>
-		 <strong>Expected Graduation</strong>: Fall 2028<br>
-           	 <strong>Focus Area</strong>: Multivariate pattern analysis of fMRI in Schizophrenia.<br>
-           	 <strong>Fun fact</strong>: I love travelling and learning about different cultures!<br>
-		 <strong>Email</strong>: cshan019@fiu.edu<br>
 		 <strong>Office</strong>: EC 3160<br>
        		</p>
 		<p class="text-gray-700 text-lg">
@@ -371,7 +372,7 @@ description: "Learn about our team and collaborators across the globe."
     <div class="max-w-6xl mx-auto">
         <div class="grid grid-cols-1 md:grid-cols-4 gap-8 text-center">
             {{< stat number="2026" label="Founded" >}}
-            {{< stat number="6" label="Team Members" >}}
+            {{< stat number="7" label="Team Members" >}}
             {{< stat number="0" label="Alumni" >}}
             {{< stat number="20+" label="Publications" >}}
         </div>
