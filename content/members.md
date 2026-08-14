@@ -123,12 +123,12 @@ description: "Learn about our team and collaborators across the globe."
             {{< team-member 
                 name="Jessica Rompas"
                 title="Master Student"
-                image="/images/company/exec-1.svg"
+                image="/images/company/jessica-rompas.jpg"
             >}}
 		<p class="text-gray-700 text-lg">
            	 <strong>Degree Program</strong>: MS in Biomedical Engineering<br>
            	 <strong>Focus Area</strong>: Multiscale fMRI connectivity feature selection.<br>
-           	 <strong>Fun fact</strong>: TBD.<br>
+           	 <strong>Fun fact</strong>: I enjoy drawing, crafting, and animating.<br>
 		 <strong>Email</strong>: jromp001@fiu.edu<br>
 		 <strong>Office</strong>: EC 3160<br>
        		</p>
