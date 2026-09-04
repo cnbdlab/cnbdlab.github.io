@@ -181,6 +181,21 @@ description: "Learn about our team and collaborators across the globe."
        		</p>
 		<p class="text-gray-700 text-lg">
        		</p>
+            {{< team-member 
+                name="Susanne Lopez"
+                title="Undergraduate Volunteer"
+                image="/images/company/susanne-lopez.jpg"
+            >}}
+		<p class="text-gray-700 text-lg">
+           	 <strong>Degree Program</strong>: BS in Behavioral Neuroscience and Natural & Applied Sciences<br>
+		 <strong>Expected Graduation</strong>: Spring 2027<br>
+           	 <strong>Focus Area</strong>: Functional connectivity alterations in children with epilepsy.<br>
+           	 <strong>Fun fact</strong>: I did Karate for over 13 years!<br>
+		 <strong>Email</strong>: Slope396@fiu.edu<br>
+		 <strong>Office</strong>: EC 3160<br>
+       		</p>
+		<p class="text-gray-700 text-lg">
+       		</p>
            {{< team-member 
                 name="Cienna Shanklin"
                 title="ARCH Undergraduate Student"
@@ -189,7 +204,7 @@ description: "Learn about our team and collaborators across the globe."
 		<p class="text-gray-700 text-lg">
            	 <strong>Degree Program</strong>: BS in Behavioral Neuroscience<br>
 		 <strong>Expected Graduation</strong>: Fall 2028<br>
-           	 <strong>Focus Area</strong>: Multivariate pattern analysis of fMRI in Schizophrenia and Bipolar Disorder.<br>
+           	 <strong>Focus Area</strong>: Multivariate pattern analysis of fMRI in schizophrenia and bipolar disorder.<br>
            	 <strong>Fun fact</strong>: I love travelling and learning about different cultures!<br>
 		 <strong>Email</strong>: cshan019@fiu.edu<br>
 		 <strong>Office</strong>: EC 3160<br>
