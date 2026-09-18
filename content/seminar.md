@@ -45,9 +45,14 @@ description: "Guest speakers for our seminar series."
                 image="/images/guests/INVITED_TALK_Arielle_Dascal_06.10.2026.jpg"
             >}}
             {{< team-member 
-                name="Rasheda Arman Chowdury, PhD"
+                name="Rasheda Arman Chowdhury, PhD"
                 title="06.24.2026 (virtual)"
                 image="/images/guests/INVITED_TALK_Rasheda_Arman_Chowdhury_06.24.2026.jpg"
+            >}}
+            {{< team-member 
+                name="Umit Aydin, PhD"
+                title="09.14.2026 (virtual)"
+                image="/images/guests/INVITED_TALK_Umit-Aydin_09.14.2026.jpeg"
             >}}
         </div>
     </div>
