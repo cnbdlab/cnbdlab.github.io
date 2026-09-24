@@ -205,7 +205,7 @@ description: "Learn about our team and collaborators across the globe."
            	 <strong>Degree Program</strong>: BS in Behavioral Neuroscience<br>
 		 <strong>Expected Graduation</strong>: Fall 2028<br>
            	 <strong>Focus Area</strong>: Multivariate pattern analysis of fMRI in schizophrenia and bipolar disorder.<br>
-           	 <strong>Fun fact</strong>: I love travelling and learning about different cultures!<br>
+           	 <strong>Fun fact</strong>: I love traveling and learning about different cultures!<br>
 		 <strong>Email</strong>: cshan019@fiu.edu<br>
 		 <strong>Office</strong>: EC 3160<br>
        		</p>
@@ -213,7 +213,7 @@ description: "Learn about our team and collaborators across the globe."
        		</p>
             {{< team-member 
                 name="Imani Douglas Woram"
-                title="Undergraduate Volunteer"
+                title="CURE Trainee"
                 image="/images/company/Imani-douglas.png"
             >}}
 		<p class="text-gray-700 text-lg">
