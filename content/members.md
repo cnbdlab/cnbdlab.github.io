@@ -306,14 +306,14 @@ description: "Learn about our team and collaborators across the globe."
                 image="/images/company/patricia-junquera.jpg"
             >}}
             {{< team-member 
+                name="Robert Buckley, MD"
+                title="Director, surgical epilepsy program, Nicklaus (Miami) Children’s Hospital "
+                image="/images/company/robert-buckley.png"
+            >}}
+            {{< team-member 
                 name="Mei Yi Ng, PhD"
                 title="Assistant Professor, Florida International University"
                 image="/images/company/mei-yi-ng.jpg"
-            >}}
-            {{< team-member 
-                name="Katherine Bottenhorn, PhD"
-                title="Assistant Professor, Florida International University"
-                image="/images/company/katherine-bottenhorn.jpg"
             >}}
             {{< team-member 
                 name="Catie Chang, PhD"
@@ -324,6 +324,11 @@ description: "Learn about our team and collaborators across the globe."
                 name="Christophe Grova, PhD"
                 title="Professor, Concordia University"
                 image="/images/company/christophe-grova.jpg"
+            >}}
+            {{< team-member 
+                name="Katherine Bottenhorn, PhD"
+                title="Assistant Professor, Florida International University"
+                image="/images/company/katherine-bottenhorn.jpg"
             >}}
         </div>
     </div>
