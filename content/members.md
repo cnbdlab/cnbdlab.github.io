@@ -26,7 +26,7 @@ description: "Learn about our team and collaborators across the globe."
             {{< team-member 
                 name="Kangjoo Lee, PhD"
                 title="Principal Investigator"
-                image="/images/company/KangjooLee_Profile.jpg"
+                image="/images/company/KangjooLee-profile-square-fiu.jpg"
             >}}
 <p class="text-gray-700 text-lg">
             Assistant Professor<br>
