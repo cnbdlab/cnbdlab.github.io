@@ -282,7 +282,7 @@ description: "Learn about our team and collaborators across the globe."
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             {{< team-member 
                 name="Angela Laird, PhD"
-                title="Professor, Florida International University"
+                title="Distinguished University Professor, Florida International University"
                 image="/images/company/angela-laird.jpg"
             >}}
             {{< team-member 
@@ -307,23 +307,23 @@ description: "Learn about our team and collaborators across the globe."
             >}}
             {{< team-member 
                 name="Robert Buckley, MD"
-                title="Director, surgical epilepsy program, Nicklaus (Miami) Children’s Hospital "
+                title="Director, Surgical Epilepsy Program, Nicklaus (Miami) Children’s Hospital "
                 image="/images/company/robert-buckley.png"
             >}}
             {{< team-member 
                 name="Mei Yi Ng, PhD"
-                title="Assistant Professor, Florida International University"
+                title="Associate Professor, Florida International University"
                 image="/images/company/mei-yi-ng.jpg"
-            >}}
-            {{< team-member 
-                name="Catie Chang, PhD"
-                title="Assistant Professor, Vanderbilt University"
-                image="/images/company/2_Catie-Chang.jpg"
             >}}
             {{< team-member 
                 name="Christophe Grova, PhD"
                 title="Professor, Concordia University"
                 image="/images/company/christophe-grova.jpg"
+            >}}
+            {{< team-member 
+                name="Catie Chang, PhD"
+                title="Associate Professor, Vanderbilt University"
+                image="/images/company/2_Catie-Chang.jpg"
             >}}
             {{< team-member 
                 name="Katherine Bottenhorn, PhD"
