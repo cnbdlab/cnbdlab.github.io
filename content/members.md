@@ -325,11 +325,6 @@ description: "Learn about our team and collaborators across the globe."
                 title="Associate Professor, Vanderbilt University"
                 image="/images/company/2_Catie-Chang.jpg"
             >}}
-            {{< team-member 
-                name="Katherine Bottenhorn, PhD"
-                title="Assistant Professor, Florida International University"
-                image="/images/company/katherine-bottenhorn.jpg"
-            >}}
         </div>
     </div>
 {{< /section-container >}}
