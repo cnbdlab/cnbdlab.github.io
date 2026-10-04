@@ -27,6 +27,8 @@ badgeColor: "#7c3aed"
 <br><br>
 ## Submitted Manuscripts / Preprints 
 
+Arielle Dascal, Édouard Delaire, Alexander Ngo, Judy Chen, Ella Sahlas, Thaera Arafat, Chifaou Abdallah, Mahdi Mobarak-Abadi, Jessica Royer, Raúl Rodríguez-Cruces, Neda Bernasconi, Andrea Bernasconi, Raluca Pana, Kangjoo Lee, Boris Bernhardt, Christophe Grova. [Assessing the Functional-Structural Reorganization of Connector Hubs in Temporal Lobe Epilepsy.](https://doi.org/10.64898/2026.09.25.754445) bioRxiv 2026.09.25.754445; doi: 10.64898/2026.09.25.754445. Submitted.
+
 Oestreich L, Totzek JF, J. Ratnanather JT, Kam J, Borghesani V, Mah L, Olsen RK, Haroon HA, Martiniello N, Lee K. [Accessibility in Academic Conferences: Barriers, Solutions, and a Framework for Inclusive Participation.](https://osf.io/preprints/psyarxiv/hf9b2_v1) PsyArXiv, 2026. doi: 10.31234/osf.io/hf9b2_v1. Under Review.
 
 Cross N, Pomares F, Uji M, Jegou A, Nguyen A, Lee K, Aydin U, Perrault A, Grova C, Dang-Vu TT, [Sleep deprivation constrains dynamic reconfiguration of integrated and segregated brain states impacting cognitive performance.](https://doi.org/10.1101/2025.10.21.683658) bioRxiv, 2025. doi: 10.1101/2025.10.21.683658. Under Review.
@@ -57,7 +59,7 @@ Razavipour SF, Ali OBK, Lee K, Grimault S, Blinder S, Soucy J-P, Benali H, Gauth
 <br><br>
 ## Publications: Peer Reviewed Journal Articles
 
-Rahmati M, Moujaes F, Suljič NP, Ji JL, Berkovitch L, Lee K, Fonteneau C, Schleifer CH, Adkinson B, Savič A, Santamauro N, Tamayo Z, Diehl C, Kolobaric A, Flynn M, Camarro T, Curtis CE, Repovš G, Fineberg SK, Morgan P, Preller KH, Krystal JH, Murray JD, Cho YT, Anticevic A, [Ketamine alters tuning of neural and behavioral spatial working memory precision.](https://doi.org/10.1016/j.biopsych.2026.09.016) Biological Psychiatry, 2026. doi: 10.1016/j.biopsych.2026.09.016.
+Rahmati M, Moujaes F, Suljic NP, Ji JL, Berkovitch L, Lee K, Fonteneau C, Schleifer CH, Adkinson BD, Savic A, Santamauro N, Tamayo Z, Diehl C, Kolobaric A, Flynn M, Camarro T, Curtis CE, Repovš G, Fineberg SK, Morgan PT, Preller KH, Krystal JH, Murray JD, Cho YT, Anticevic A. [Ketamine Alters Tuning of Neural and Behavioral Spatial Working Memory Precision.](https://doi.org/10.1016/j.biopsych.2026.09.016) Biol Psychiatry. 2026 Sep 28:S0006-3223(26)01575-1. doi: 10.1016/j.biopsych.2026.09.016. Epub ahead of print. PMID: 42805468.
 
 Lee K, Yip SW, Pittenger C. [The Promise and Challenges of Mapping Brain-Behavior Associations in Psychiatry: A New Leap Forward.](https://doi.org/10.1016/j.biopsych.2026.03.993) Biol Psychiatry. 2026 May 15;99(10):804-806. doi: 10.1016/j.biopsych.2026.03.993. PMID: 42067277.
 
