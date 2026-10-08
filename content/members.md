@@ -240,7 +240,7 @@ description: "Learn about our team and collaborators across the globe."
 <br>
 
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
-            {{< team-member 
+ <!--           {{< team-member 
                 name="Linda Natalia Bonilla"
                 title="Undergraduate Student"
                 image="/images/company/linda-natalia-bonilla.jpg"
@@ -255,6 +255,7 @@ description: "Learn about our team and collaborators across the globe."
        		</p>
 		<p class="text-gray-700 text-lg">
        		</p>
+--!>
         </div>
     </div>
 {{< /section-container >}}
@@ -334,8 +335,9 @@ description: "Learn about our team and collaborators across the globe."
 {{< section-container class="py-20" >}}
     <div class="max-w-6xl mx-auto">
         <h2 class="text-3xl font-bold text-center mb-12">Funding</h2>
-	<div class="flex justify-center items-center">
-		<img src="/images/company/whcoulter-logo.jpg" style="width: 160px; height: auto;">
+	<div class="flex justify-center items-center gap-12">		
+<img src="/images/company/bbrf-logo-fb.jpg" style="width: 320px; height: auto;">
+<img src="/images/company/whcoulter-logo.jpg" style="width: 160px; height: auto;">
 	</div>
     </div>
 {{< /section-container >}}
