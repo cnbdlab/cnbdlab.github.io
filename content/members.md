@@ -283,28 +283,28 @@ description: "Learn about our team and collaborators across the globe."
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             {{< team-member 
                 name="Angela Laird, PhD"
-                title="Distinguished University Professor, Florida International University"
+                title="Distinguished University Professor, Department of Physics; Center for Imaging Science, FIU"
                 image="/images/company/angela-laird.jpg"
             >}}
             {{< team-member 
                 name="Jorge Riera, PhD"
-                title="Professor, Florida International University"
+                title="Professor, Chair; Department of Biomedical Engineering, FIU"
                 image="/images/company/Jorge_Riera.jpg"
             >}}
             {{< team-member 
-                name="Dana McMakin, PhD"
-                title="Professor, Florida International University"
-                image="/images/company/dana-mcmakin.jpeg"
-            >}}
-            {{< team-member 
-                name="Aaron Mattfeld, PhD"
-                title="Associate Professor, Florida International University"
-                image="/images/company/aaron-mattfeld.jpeg"
+                name="Aviva Abosch, MD, PhD"
+                title="Deputy Director, Miami Neuroscience Institute; Director, Epilepsy Surgery; Baptist Health"
+                image="/images/company/aviva-abosch.jpg"
             >}}
             {{< team-member 
                 name="Patricia Junquera, MD"
-                title="Associate Professor, FIU/Baptist Health "
+                title="Associate Professor and Chair, Psychiatry and Behavioral Health, FIU/Baptist Health "
                 image="/images/company/patricia-junquera.jpg"
+            >}}
+            {{< team-member 
+                name="Mei Yi Ng, PhD"
+                title="Associate Professor, Department of Psychology; Center for Children and Families, FIU"
+                image="/images/company/mei-yi-ng.jpg"
             >}}
             {{< team-member 
                 name="Robert Buckley, MD"
@@ -312,13 +312,18 @@ description: "Learn about our team and collaborators across the globe."
                 image="/images/company/robert-buckley.png"
             >}}
             {{< team-member 
-                name="Mei Yi Ng, PhD"
-                title="Associate Professor, Florida International University"
-                image="/images/company/mei-yi-ng.jpg"
+                name="Aaron Mattfeld, PhD"
+                title="Professor, Department of Psychology, FIU"
+                image="/images/company/aaron-mattfeld.jpeg"
+            >}}
+            {{< team-member 
+                name="Dana L. McMakin, PhD, ABPP"
+                title="Professor, Department of Psychology; Center for Children and Families FIU"
+                image="/images/company/dana-mcmakin.jpeg"
             >}}
             {{< team-member 
                 name="Christophe Grova, PhD"
-                title="Professor, Concordia University"
+                title="Professor, Department of Physics, Concordia University"
                 image="/images/company/christophe-grova.jpg"
             >}}
             {{< team-member 
