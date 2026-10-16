@@ -57,7 +57,7 @@ description: "Guest speakers for our seminar series."
             {{< team-member 
                 name="Zhengchen Cai, PhD"
                 title="10.19.2026 (virtual)"
-                image="/images/guests/INVITED_TALK_Zhengchen_Cai_10.19.2026.jpg"
+                image="/images/guests/INVITED_TALK_Zhengchen_Cai_10.19.2026_updated.jpg"
             >}}
         </div>
     </div>
