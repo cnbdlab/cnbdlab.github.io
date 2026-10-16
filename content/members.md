@@ -197,6 +197,22 @@ description: "Learn about our team and collaborators across the globe."
 		<p class="text-gray-700 text-lg">
        		</p>
            {{< team-member 
+                name="Linda Natalia Bonilla"
+                title="Undergraduate Student (BME 4912-Fall B)"
+                image="/images/company/linda-natalia-bonilla.jpg"
+            >}}
+		<p class="text-gray-700 text-lg">
+           	 <strong>Degree Program</strong>: BS in Biomedical Engineering<br>
+		 <strong>Expected Graduation</strong>: Summer 2027<br>
+           	 <strong>Focus Area</strong>: Functional brain network alterations in ADHD.<br>
+           	 <strong>Fun fact</strong>: Big fan of coffee and gym time.<br>
+		 <strong>Email</strong>: lboni029@fiu.edu<br>
+		 <strong>Office</strong>: EC 3160<br>
+       		</p>
+		<p class="text-gray-700 text-lg">
+       		</p>
+
+           {{< team-member 
                 name="Cienna Shanklin"
                 title="ARCH Undergraduate Student"
                 image="/images/company/cienna-shanklin.jpg"
