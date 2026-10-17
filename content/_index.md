@@ -62,7 +62,7 @@ testimonials:
     image="/images/main-1-projects.png"
     buttonText="Learn More"
     buttonLink="/research/"
-    features="Longitudinal Imaging of Schizophrenia in Adults (LISA), Neural dynamics modelling,Brain states in fMRI and EEG,Open-source BrainCAP software development"
+    features="Longitudinal Imaging of Schizophrenia in Adults (LISA), Neural dynamics modelling in epilepsy,Brain state fluctuations in fMRI and EEG, Open-source BrainCAP software development"
     imagePosition="right"
 >}}
 

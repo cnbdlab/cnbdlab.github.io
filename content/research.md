@@ -29,8 +29,8 @@ By leveraging large datasets (e.g. Human Connectome Project-Early Psychosis, Bio
 
 ### Ongoing Projects
 - Longitudinal Imaging of Schizophrenia in Adults (LISA)
-- Neural dynamics modelling
-- Brain states in fMRI and EEG
+- Neural dynamics modelling in epilepsy
+- Brain state fluctuations in fMRI and EEG
 - Open-source BrainCAP software development
 
 <br><br><br>
