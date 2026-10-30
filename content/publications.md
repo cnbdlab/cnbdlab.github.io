@@ -17,6 +17,9 @@ badgeColor: "#7c3aed"
   <div class="flex justify-center space-x-8">
     <a href="#published-journals" class="text-blue-600 hover:underline font-semibold">Published Full-Length Articles</a>
     <a href="#published-short" class="text-blue-600 hover:underline font-semibold">Published Proceedings Articles</a>
+  </div>
+  <!-- Third row -->
+  <div class="flex justify-center space-x-8">
     <a href="#abstracts-international" class="text-blue-600 hover:underline font-semibold">International Conference Abstracts</a>
     <a href="#abstracts-domestic" class="text-blue-600 hover:underline font-semibold">Domestic & Local Conference Abstracts</a>
   </div>
@@ -52,9 +55,7 @@ Razavipour SF, Ali OBK, Lee K, Grimault S, Blinder S, Soucy J-P, Benali H, Gauth
 
 [<I>Domestic Conference</I>] Diego Mora, Akshay Singh, Kangjoo Lee. Comparing Motor Task and Resting State Brain Network Dynamics Using fMRI. BME Undergraduate Research Day. November 6, 2026. Florida International University. Miami, Florida, USA.
 
-[<I>Domestic Conference</I>] Cienna Shanklin, Akshay Singh, and Kangjoo Lee. Characterization of Hyperconnectivity and Hypoconnectivity During a Visual Shape Completion Task in Schizophrenia. BME Undergraduate Research Day. November 6, 2026. Florida International University. Miami, Florida, USA.
-
-[<I>Domestic Conference</I>] Imani Douglas Woram1, Akshay Singh1, Kangjoo Lee. Functional Connectivity Analysis in Children with ADHD. BME Undergraduate Research Day. November 6, 2026. Florida International University. Miami, Florida, USA.
+[<I>Domestic Conference</I>] Imani Douglas Woram, Akshay Singh, Kangjoo Lee. Functional Connectivity Analysis in Children with ADHD. BME Undergraduate Research Day. November 6, 2026. Florida International University. Miami, Florida, USA.
 
 <a href="#top" class="text-blue-600 hover:underline font-semibold">Back to Top</a>
 
