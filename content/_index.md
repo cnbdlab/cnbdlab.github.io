@@ -16,10 +16,6 @@ client_logos:
   - name: "ACNP"
     logo: "/images/logos/acnp-logo.png"
 testimonials:
-  - name: "Opportunities for BME Undergraduates"
-    title: "Mar. 16, 2026"
-    avatar: "/images/testimonial-1.svg"
-    quote: "We welcome undergraduate BME/Neuroscience students to join our lab through the ARCH Program (Honors College) or the Coulter Undergraduate Research Excellence (CURE) Program for entry-level undergraduates."
   - name: "Dr. Lee to Receive BBRF/NARSAD Young Investigator Grant"
     title: "July 30, 2026"
     avatar: "/images/testimonial-1.svg"

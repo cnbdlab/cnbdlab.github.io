@@ -59,6 +59,11 @@ description: "Guest speakers for our seminar series."
                 title="10.19.2026 (virtual)"
                 image="/images/guests/INVITED_TALK_Zhengchen_Cai_10.19.2026_updated.jpg"
             >}}
+            {{< team-member 
+                name="Corey Horien, MD. PhD"
+                title="11.04.2026 (virtual)"
+                image="/images/guests/INVITED_TALK_Horien_Corey_11.4.2026.jpg"
+            >}}
         </div>
     </div>
 <br><br>

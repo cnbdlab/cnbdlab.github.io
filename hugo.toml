@@ -43,16 +43,16 @@ paginatePath = "page"
     [params.cta.secondary_button]
       text = "BME PhD Program"
       url = "https://cec.fiu.edu/about/schools-departments/biomedical-engineering/"
-  
+
   # Social Media Links
   [params.social]
-    linkedin = "https://www.linkedin.com/in/kangjoo-lee-31756630/"
-    twitter = "https://x.com/Kangjoo_Lee_"
-    bluesky = "https://bsky.app/profile/kangjoolee.bsky.social"
+    #linkedin = "https://www.linkedin.com/in/kangjoo-lee-31756630/"
+    #twitter = "https://x.com/Kangjoo_Lee_"
+    #bluesky = "https://bsky.app/profile/kangjoolee.bsky.social"
     #youtube = "https://youtube.com/@yourprofile"
     #facebook = "https://facebook.com/yourprofile"
-    #instagram = "https://instagram.com/yourprofile"
-    github = "https://github.com/Kangjoo/"
+    instagram = "https://www.instagram.com/cnbdlab/"
+    github = "https://github.com/cnbdlab"
     #telegram = "https://t.me/yourchannel"
     #discord = "https://discord.gg/yourinvite"
     slack = "https://cnbdlab.slack.com"

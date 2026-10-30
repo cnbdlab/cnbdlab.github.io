@@ -17,7 +17,8 @@ badgeColor: "#7c3aed"
   <div class="flex justify-center space-x-8">
     <a href="#published-journals" class="text-blue-600 hover:underline font-semibold">Published Full-Length Articles</a>
     <a href="#published-short" class="text-blue-600 hover:underline font-semibold">Published Proceedings Articles</a>
-    <a href="#abstracts" class="text-blue-600 hover:underline font-semibold">Presented Abstracts</a>
+    <a href="#abstracts-international" class="text-blue-600 hover:underline font-semibold">International Conference Abstracts</a>
+    <a href="#abstracts-domestic" class="text-blue-600 hover:underline font-semibold">Domestic & Local Conference Abstracts</a>
   </div>
 </div>
 
@@ -28,8 +29,6 @@ badgeColor: "#7c3aed"
 ## Submitted Manuscripts / Preprints 
 
 Arielle Dascal, Édouard Delaire, Alexander Ngo, Judy Chen, Ella Sahlas, Thaera Arafat, Chifaou Abdallah, Mahdi Mobarak-Abadi, Jessica Royer, Raúl Rodríguez-Cruces, Neda Bernasconi, Andrea Bernasconi, Raluca Pana, Kangjoo Lee, Boris Bernhardt, Christophe Grova. [Assessing the Functional-Structural Reorganization of Connector Hubs in Temporal Lobe Epilepsy.](https://doi.org/10.64898/2026.09.25.754445) bioRxiv 2026.09.25.754445; doi: 10.64898/2026.09.25.754445. Submitted.
-
-Oestreich L, Totzek JF, J. Ratnanather JT, Kam J, Borghesani V, Mah L, Olsen RK, Haroon HA, Martiniello N, Lee K. [Accessibility in Academic Conferences: Barriers, Solutions, and a Framework for Inclusive Participation.](https://osf.io/preprints/psyarxiv/hf9b2_v1) PsyArXiv, 2026. doi: 10.31234/osf.io/hf9b2_v1. Under Review.
 
 Cross N, Pomares F, Uji M, Jegou A, Nguyen A, Lee K, Aydin U, Perrault A, Grova C, Dang-Vu TT, [Sleep deprivation constrains dynamic reconfiguration of integrated and segregated brain states impacting cognitive performance.](https://doi.org/10.1101/2025.10.21.683658) bioRxiv, 2025. doi: 10.1101/2025.10.21.683658. Under Review.
 
@@ -49,6 +48,13 @@ Razavipour SF, Ali OBK, Lee K, Grimault S, Blinder S, Soucy J-P, Benali H, Gauth
 <br><br>
 ## Submitted Abstracts / Proposals 
 
+[<I>Domestic Conference</I>] Elysa Barrera and Kangjoo Lee. EEG Microstate Signatures in First Episode Schizophrenia Spectrum Psychosis. BME Undergraduate Research Day. November 6, 2026. Florida International University. Miami, Florida, USA.
+
+[<I>Domestic Conference</I>] Diego Mora, Akshay Singh, Kangjoo Lee. Comparing Motor Task and Resting State Brain Network Dynamics Using fMRI. BME Undergraduate Research Day. November 6, 2026. Florida International University. Miami, Florida, USA.
+
+[<I>Domestic Conference</I>] Cienna Shanklin, Akshay Singh, and Kangjoo Lee. Characterization of Hyperconnectivity and Hypoconnectivity During a Visual Shape Completion Task in Schizophrenia. BME Undergraduate Research Day. November 6, 2026. Florida International University. Miami, Florida, USA.
+
+[<I>Domestic Conference</I>] Imani Douglas Woram1, Akshay Singh1, Kangjoo Lee. Functional Connectivity Analysis in Children with ADHD. BME Undergraduate Research Day. November 6, 2026. Florida International University. Miami, Florida, USA.
 
 <a href="#top" class="text-blue-600 hover:underline font-semibold">Back to Top</a>
 
@@ -58,6 +64,8 @@ Razavipour SF, Ali OBK, Lee K, Grimault S, Blinder S, Soucy J-P, Benali H, Gauth
 <a id="published-journals" class="scroll-anchor"></a>
 <br><br>
 ## Publications: Peer Reviewed Journal Articles
+
+Oestreich L, Totzek JF, J. Ratnanather JT, Kam J, Borghesani V, Mah L, Olsen RK, Haroon HA, Martiniello N, Lee K. [Accessibility in Academic Conferences: Barriers, Solutions, and a Framework for Inclusive Participation.](https://osf.io/preprints/psyarxiv/hf9b2_v1) Aperture Neuro, 2026. Accepted.
 
 Rahmati M, Moujaes F, Suljic NP, Ji JL, Berkovitch L, Lee K, Fonteneau C, Schleifer CH, Adkinson BD, Savic A, Santamauro N, Tamayo Z, Diehl C, Kolobaric A, Flynn M, Camarro T, Curtis CE, Repovš G, Fineberg SK, Morgan PT, Preller KH, Krystal JH, Murray JD, Cho YT, Anticevic A. [Ketamine Alters Tuning of Neural and Behavioral Spatial Working Memory Precision.](https://doi.org/10.1016/j.biopsych.2026.09.016) Biol Psychiatry. 2026 Sep 28:S0006-3223(26)01575-1. doi: 10.1016/j.biopsych.2026.09.016. Epub ahead of print. PMID: 42805468.
 
@@ -138,13 +146,23 @@ Lee K, Ye JC. [Statistical parametric mapping of fMRI data using sparse dictiona
 
 
 
-<a id="abstracts" class="scroll-anchor"></a>
+<a id="abstracts-international" class="scroll-anchor"></a>
 <br><br>
-## Conference Abstracts (2026-present)
+## International Conference Abstracts (2026-present)
 
-Arielle Dascal, Édouard Delaire, Alexander Ngo, Thaera Arafat, Judy Chen, Ella Sahlas, Chifaou Abdallah, Mahdi Mobarak-Abadi, Jessica Royer, Raul Rodriguez-Cruces, Neda Bernasconi, Andrea Bernasconi, Raluca Pana, <b>Kangjoo Lee</b>, Boris Bernhardt, Christophe Grova, Assessing the Functional-Structural Reorganization of Connector Hubs in Temporal Lobe Epilepsy, Organization for Human Brain Mapping (OHBM), June 2026 (Poster session)
+Arielle Dascal, Édouard Delaire, Alexander Ngo, Thaera Arafat, Judy Chen, Ella Sahlas, Chifaou Abdallah, Mahdi Mobarak-Abadi, Jessica Royer, Raul Rodriguez-Cruces, Neda Bernasconi, Andrea Bernasconi, Raluca Pana, Kangjoo Lee, Boris Bernhardt, Christophe Grova, Assessing the Functional-Structural Reorganization of Connector Hubs in Temporal Lobe Epilepsy, Organization for Human Brain Mapping (OHBM), June 2026 (Poster session)
 
-Mahdi Mobarak-Abadi, Arielle Dascal, <b>Kangjoo Lee</b>, Habib Benali, Jean-Marc Lina, Christophe Grova, Multiscale Functional Architecture of Brain Hubs Revealed by Graph Theory and Sparse Decomposition, Organization for Human Brain Mapping (OHBM), June 2026 (Poster session)
+Mahdi Mobarak-Abadi, Arielle Dascal, Kangjoo Lee, Habib Benali, Jean-Marc Lina, Christophe Grova, Multiscale Functional Architecture of Brain Hubs Revealed by Graph Theory and Sparse Decomposition, Organization for Human Brain Mapping (OHBM), June 2026 (Poster session)
+
+
+
+<a href="#top" class="text-blue-600 hover:underline font-semibold">Back to Top</a>
+
+
+
+<a id="abstracts-domestic" class="scroll-anchor"></a>
+<br><br>
+## Domestic & Local Conference Abstracts (2026-present)
 
 
 
