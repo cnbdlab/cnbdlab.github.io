@@ -24,10 +24,10 @@ testimonials:
     title: "September 23, 2026"
     avatar: "/images/testimonial-1.svg"
     quote: "Imani's proposal for the BME CURE Program has been accepted to start in Fall 2026. As a CURE Trainee, Imani will explore brain network alterations in ADHD. Congratulations!"
-  - name: "Welcoming New BS student!"
-    title: "September 1, 2026"
+  - name: "CNBD Lab at BME Undergraduate Research Day"
+    title: "November 6, 2026"
     avatar: "/images/testimonial-1.svg"
-    quote: "We are excited to welcome our new undergraduate volunteer, Susanne Lopez (BS in Behavioral Neuroscience and Natural & Applied Sciences), to our team. Welcome Susanne!"
+    quote: "Three undergraduate researchers from the CNBD Lab, Diego Mora Ramos, Elysa Barrera and Imani Douglas Woram, presented their research at the 2026 BME Undergraduate Research Day at FIU on November 6, 2026. Congratulations to our students on their excellent work!"
 ---
 
 {{< hero 
